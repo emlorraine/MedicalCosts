@@ -1,0 +1,7247 @@
+[
+    {
+        "geo_level": "USA",
+        "id": "ES001",
+        "percent25": 623.2,
+        "percent50": 1093.19,
+        "percent75": 2568
+    },
+    {
+        "geo_level": "USA",
+        "id": "IM104",
+        "percent25": 308.8,
+        "percent50": 641.17,
+        "percent75": 1825.6
+    },
+    {
+        "geo_level": "USA",
+        "id": "IM211",
+        "percent25": 759.2,
+        "percent50": 1495.74,
+        "percent75": 4134.4
+    },
+    {
+        "geo_level": "USA",
+        "id": "IM403",
+        "percent25": 114.4,
+        "percent50": 175.57,
+        "percent75": 379.2
+    },
+    {
+        "geo_level": "USA",
+        "id": "IM407",
+        "percent25": 100,
+        "percent50": 168.78,
+        "percent75": 361.6
+    },
+    {
+        "geo_level": "USA",
+        "id": "IM601",
+        "percent25": 25.6,
+        "percent50": 38.8,
+        "percent75": 83.2
+    },
+    {
+        "geo_level": "USA",
+        "id": "IM606",
+        "percent25": 31.2,
+        "percent50": 47.53,
+        "percent75": 100.8
+    },
+    {
+        "geo_level": "USA",
+        "id": "IM616",
+        "percent25": 23.2,
+        "percent50": 36.86,
+        "percent75": 75.2
+    },
+    {
+        "geo_level": "USA",
+        "id": "IM627",
+        "percent25": 36,
+        "percent50": 56.26,
+        "percent75": 115.2
+    },
+    {
+        "geo_level": "USA",
+        "id": "LT105",
+        "percent25": 5.6,
+        "percent50": 8.73,
+        "percent75": 19.2
+    },
+    {
+        "geo_level": "USA",
+        "id": "LT106",
+        "percent25": 5.6,
+        "percent50": 8.73,
+        "percent75": 20.8
+    },
+    {
+        "geo_level": "USA",
+        "id": "LT211",
+        "percent25": 1.6,
+        "percent50": 1.94,
+        "percent75": 4.8
+    },
+    {
+        "geo_level": "USA",
+        "id": "LT213",
+        "percent25": 2.4,
+        "percent50": 3.88,
+        "percent75": 9.6
+    },
+    {
+        "geo_level": "USA",
+        "id": "LT219",
+        "percent25": 5.6,
+        "percent50": 8.73,
+        "percent75": 20.8
+    },
+    {
+        "geo_level": "USA",
+        "id": "LT313",
+        "percent25": 16.8,
+        "percent50": 26.19,
+        "percent75": 57.6
+    },
+    {
+        "geo_level": "USA",
+        "id": "LT315",
+        "percent25": 10.4,
+        "percent50": 15.52,
+        "percent75": 35.2
+    },
+    {
+        "geo_level": "USA",
+        "id": "LT403",
+        "percent25": 68.8,
+        "percent50": 99.91,
+        "percent75": 212.8
+    },
+    {
+        "geo_level": "USA",
+        "id": "LT503",
+        "percent25": 9.6,
+        "percent50": 15.52,
+        "percent75": 40
+    },
+    {
+        "geo_level": "USA",
+        "id": "OV116",
+        "percent25": 54.4,
+        "percent50": 77.6,
+        "percent75": 163.2
+    },
+    {
+        "geo_level": "USA",
+        "id": "OV307",
+        "percent25": 32,
+        "percent50": 46.56,
+        "percent75": 96
+    },
+    {
+        "geo_level": "USA",
+        "id": "OV411",
+        "percent25": 135.2,
+        "percent50": 207.58,
+        "percent75": 473.6
+    },
+    {
+        "geo_level": "USA",
+        "id": "OV412",
+        "percent25": 135.2,
+        "percent50": 207.58,
+        "percent75": 473.6
+    },
+    {
+        "geo_level": "USA",
+        "id": "OV521",
+        "percent25": 422.4,
+        "percent50": 584.91,
+        "percent75": 1155.2
+    },
+    {
+        "geo_level": "USA",
+        "id": "PX207",
+        "percent25": 5523.2,
+        "percent50": 10341.17,
+        "percent75": 24656
+    },
+    {
+        "geo_level": "USA",
+        "id": "PX222",
+        "percent25": 11725.6,
+        "percent50": 22494.3,
+        "percent75": 59483.2
+    },
+    {
+        "geo_level": "AK",
+        "id": "ES001",
+        "percent25": 1067.2,
+        "percent50": 1796.44,
+        "percent75": 3944
+    },
+    {
+        "geo_level": "AK",
+        "id": "IM104",
+        "percent25": 817.6,
+        "percent50": 1950.67,
+        "percent75": 3598.4
+    },
+    {
+        "geo_level": "AK",
+        "id": "IM403",
+        "percent25": 357.6,
+        "percent50": 498.58,
+        "percent75": 924.8
+    },
+    {
+        "geo_level": "AK",
+        "id": "IM407",
+        "percent25": 362.4,
+        "percent50": 531.56,
+        "percent75": 974.4
+    },
+    {
+        "geo_level": "AK",
+        "id": "IM601",
+        "percent25": 79.2,
+        "percent50": 133.86,
+        "percent75": 244.8
+    },
+    {
+        "geo_level": "AK",
+        "id": "IM606",
+        "percent25": 104.8,
+        "percent50": 169.75,
+        "percent75": 284.8
+    },
+    {
+        "geo_level": "AK",
+        "id": "IM627",
+        "percent25": 136.8,
+        "percent50": 187.21,
+        "percent75": 313.6
+    },
+    {
+        "geo_level": "AK",
+        "id": "LT105",
+        "percent25": 24.8,
+        "percent50": 31.04,
+        "percent75": 65.6
+    },
+    {
+        "geo_level": "AK",
+        "id": "LT106",
+        "percent25": 20,
+        "percent50": 24.25,
+        "percent75": 40
+    },
+    {
+        "geo_level": "AK",
+        "id": "LT211",
+        "percent25": 6.4,
+        "percent50": 8.73,
+        "percent75": 14.4
+    },
+    {
+        "geo_level": "AK",
+        "id": "LT213",
+        "percent25": 10.4,
+        "percent50": 12.61,
+        "percent75": 24
+    },
+    {
+        "geo_level": "AK",
+        "id": "LT219",
+        "percent25": 19.2,
+        "percent50": 31.04,
+        "percent75": 52.8
+    },
+    {
+        "geo_level": "AK",
+        "id": "LT313",
+        "percent25": 20.8,
+        "percent50": 59.17,
+        "percent75": 105.6
+    },
+    {
+        "geo_level": "AK",
+        "id": "LT315",
+        "percent25": 16.8,
+        "percent50": 51.41,
+        "percent75": 86.4
+    },
+    {
+        "geo_level": "AK",
+        "id": "LT403",
+        "percent25": 177.6,
+        "percent50": 268.69,
+        "percent75": 465.6
+    },
+    {
+        "geo_level": "AK",
+        "id": "OV116",
+        "percent25": 140,
+        "percent50": 193.03,
+        "percent75": 329.6
+    },
+    {
+        "geo_level": "AK",
+        "id": "OV307",
+        "percent25": 80,
+        "percent50": 118.34,
+        "percent75": 201.6
+    },
+    {
+        "geo_level": "AK",
+        "id": "OV411",
+        "percent25": 384.8,
+        "percent50": 500.52,
+        "percent75": 897.6
+    },
+    {
+        "geo_level": "AK",
+        "id": "OV412",
+        "percent25": 384.8,
+        "percent50": 500.52,
+        "percent75": 897.6
+    },
+    {
+        "geo_level": "AK",
+        "id": "OV521",
+        "percent25": 607.2,
+        "percent50": 883.67,
+        "percent75": 1785.6
+    },
+    {
+        "geo_level": "AR",
+        "id": "ES001",
+        "percent25": 587.2,
+        "percent50": 904.04,
+        "percent75": 1846.4
+    },
+    {
+        "geo_level": "AR",
+        "id": "IM104",
+        "percent25": 132,
+        "percent50": 161.02,
+        "percent75": 265.6
+    },
+    {
+        "geo_level": "AR",
+        "id": "IM403",
+        "percent25": 143.2,
+        "percent50": 176.54,
+        "percent75": 291.2
+    },
+    {
+        "geo_level": "AR",
+        "id": "IM601",
+        "percent25": 32,
+        "percent50": 38.8,
+        "percent75": 65.6
+    },
+    {
+        "geo_level": "AR",
+        "id": "IM606",
+        "percent25": 40,
+        "percent50": 49.47,
+        "percent75": 81.6
+    },
+    {
+        "geo_level": "AR",
+        "id": "IM616",
+        "percent25": 31.2,
+        "percent50": 37.83,
+        "percent75": 64
+    },
+    {
+        "geo_level": "AR",
+        "id": "IM627",
+        "percent25": 45.6,
+        "percent50": 56.26,
+        "percent75": 92.8
+    },
+    {
+        "geo_level": "AR",
+        "id": "LT105",
+        "percent25": 8.8,
+        "percent50": 13.58,
+        "percent75": 22.4
+    },
+    {
+        "geo_level": "AR",
+        "id": "LT106",
+        "percent25": 9.6,
+        "percent50": 14.55,
+        "percent75": 24
+    },
+    {
+        "geo_level": "AR",
+        "id": "LT211",
+        "percent25": 2.4,
+        "percent50": 3.88,
+        "percent75": 6.4
+    },
+    {
+        "geo_level": "AR",
+        "id": "LT213",
+        "percent25": 4.8,
+        "percent50": 5.82,
+        "percent75": 11.2
+    },
+    {
+        "geo_level": "AR",
+        "id": "LT219",
+        "percent25": 9.6,
+        "percent50": 13.58,
+        "percent75": 22.4
+    },
+    {
+        "geo_level": "AR",
+        "id": "LT313",
+        "percent25": 25.6,
+        "percent50": 34.92,
+        "percent75": 59.2
+    },
+    {
+        "geo_level": "AR",
+        "id": "LT315",
+        "percent25": 15.2,
+        "percent50": 23.28,
+        "percent75": 38.4
+    },
+    {
+        "geo_level": "AR",
+        "id": "LT403",
+        "percent25": 73.6,
+        "percent50": 102.82,
+        "percent75": 182.4
+    },
+    {
+        "geo_level": "AR",
+        "id": "LT503",
+        "percent25": 15.2,
+        "percent50": 24.25,
+        "percent75": 41.6
+    },
+    {
+        "geo_level": "AR",
+        "id": "OV116",
+        "percent25": 56,
+        "percent50": 81.48,
+        "percent75": 147.2
+    },
+    {
+        "geo_level": "AR",
+        "id": "OV307",
+        "percent25": 36.8,
+        "percent50": 52.38,
+        "percent75": 89.6
+    },
+    {
+        "geo_level": "AR",
+        "id": "OV521",
+        "percent25": 467.2,
+        "percent50": 605.28,
+        "percent75": 1043.2
+    },
+    {
+        "geo_level": "AZ",
+        "id": "ES001",
+        "percent25": 688,
+        "percent50": 1079.61,
+        "percent75": 2457.6
+    },
+    {
+        "geo_level": "AZ",
+        "id": "IM104",
+        "percent25": 273.6,
+        "percent50": 415.16,
+        "percent75": 1881.6
+    },
+    {
+        "geo_level": "AZ",
+        "id": "IM211",
+        "percent25": 806.4,
+        "percent50": 1182.43,
+        "percent75": 2558.4
+    },
+    {
+        "geo_level": "AZ",
+        "id": "IM403",
+        "percent25": 101.6,
+        "percent50": 128.04,
+        "percent75": 236.8
+    },
+    {
+        "geo_level": "AZ",
+        "id": "IM407",
+        "percent25": 87.2,
+        "percent50": 119.31,
+        "percent75": 240
+    },
+    {
+        "geo_level": "AZ",
+        "id": "IM601",
+        "percent25": 25.6,
+        "percent50": 35.89,
+        "percent75": 70.4
+    },
+    {
+        "geo_level": "AZ",
+        "id": "IM606",
+        "percent25": 29.6,
+        "percent50": 42.68,
+        "percent75": 84.8
+    },
+    {
+        "geo_level": "AZ",
+        "id": "IM616",
+        "percent25": 23.2,
+        "percent50": 35.89,
+        "percent75": 73.6
+    },
+    {
+        "geo_level": "AZ",
+        "id": "IM627",
+        "percent25": 32.8,
+        "percent50": 49.47,
+        "percent75": 96
+    },
+    {
+        "geo_level": "AZ",
+        "id": "LT105",
+        "percent25": 5.6,
+        "percent50": 8.73,
+        "percent75": 14.4
+    },
+    {
+        "geo_level": "AZ",
+        "id": "LT106",
+        "percent25": 6.4,
+        "percent50": 8.73,
+        "percent75": 16
+    },
+    {
+        "geo_level": "AZ",
+        "id": "LT211",
+        "percent25": 1.6,
+        "percent50": 1.94,
+        "percent75": 3.2
+    },
+    {
+        "geo_level": "AZ",
+        "id": "LT213",
+        "percent25": 3.2,
+        "percent50": 4.85,
+        "percent75": 8
+    },
+    {
+        "geo_level": "AZ",
+        "id": "LT219",
+        "percent25": 5.6,
+        "percent50": 6.79,
+        "percent75": 11.2
+    },
+    {
+        "geo_level": "AZ",
+        "id": "LT313",
+        "percent25": 12.8,
+        "percent50": 19.4,
+        "percent75": 35.2
+    },
+    {
+        "geo_level": "AZ",
+        "id": "LT315",
+        "percent25": 9.6,
+        "percent50": 13.58,
+        "percent75": 24
+    },
+    {
+        "geo_level": "AZ",
+        "id": "LT403",
+        "percent25": 64,
+        "percent50": 81.48,
+        "percent75": 160
+    },
+    {
+        "geo_level": "AZ",
+        "id": "LT503",
+        "percent25": 14.4,
+        "percent50": 17.46,
+        "percent75": 28.8
+    },
+    {
+        "geo_level": "AZ",
+        "id": "OV116",
+        "percent25": 51.2,
+        "percent50": 64.02,
+        "percent75": 128
+    },
+    {
+        "geo_level": "AZ",
+        "id": "OV307",
+        "percent25": 29.6,
+        "percent50": 38.8,
+        "percent75": 73.6
+    },
+    {
+        "geo_level": "AZ",
+        "id": "OV411",
+        "percent25": 116.8,
+        "percent50": 144.53,
+        "percent75": 307.2
+    },
+    {
+        "geo_level": "AZ",
+        "id": "OV412",
+        "percent25": 116.8,
+        "percent50": 144.53,
+        "percent75": 307.2
+    },
+    {
+        "geo_level": "AZ",
+        "id": "OV521",
+        "percent25": 402.4,
+        "percent50": 541.26,
+        "percent75": 1044.8
+    },
+    {
+        "geo_level": "AZ",
+        "id": "PX207",
+        "percent25": 3582.4,
+        "percent50": 5792.84,
+        "percent75": 13099.2
+    },
+    {
+        "geo_level": "CA",
+        "id": "ES001",
+        "percent25": 1016.8,
+        "percent50": 1799.35,
+        "percent75": 4200
+    },
+    {
+        "geo_level": "CA",
+        "id": "IM104",
+        "percent25": 488.8,
+        "percent50": 1039.84,
+        "percent75": 2723.2
+    },
+    {
+        "geo_level": "CA",
+        "id": "IM211",
+        "percent25": 1032.8,
+        "percent50": 3088.48,
+        "percent75": 7932.8
+    },
+    {
+        "geo_level": "CA",
+        "id": "IM403",
+        "percent25": 109.6,
+        "percent50": 146.47,
+        "percent75": 342.4
+    },
+    {
+        "geo_level": "CA",
+        "id": "IM407",
+        "percent25": 97.6,
+        "percent50": 128.04,
+        "percent75": 342.4
+    },
+    {
+        "geo_level": "CA",
+        "id": "IM601",
+        "percent25": 26.4,
+        "percent50": 34.92,
+        "percent75": 75.2
+    },
+    {
+        "geo_level": "CA",
+        "id": "IM606",
+        "percent25": 30.4,
+        "percent50": 41.71,
+        "percent75": 84.8
+    },
+    {
+        "geo_level": "CA",
+        "id": "IM616",
+        "percent25": 23.2,
+        "percent50": 31.04,
+        "percent75": 62.4
+    },
+    {
+        "geo_level": "CA",
+        "id": "IM627",
+        "percent25": 35.2,
+        "percent50": 47.53,
+        "percent75": 100.8
+    },
+    {
+        "geo_level": "CA",
+        "id": "LT105",
+        "percent25": 5.6,
+        "percent50": 8.73,
+        "percent75": 19.2
+    },
+    {
+        "geo_level": "CA",
+        "id": "LT106",
+        "percent25": 6.4,
+        "percent50": 8.73,
+        "percent75": 19.2
+    },
+    {
+        "geo_level": "CA",
+        "id": "LT211",
+        "percent25": 1.6,
+        "percent50": 1.94,
+        "percent75": 4.8
+    },
+    {
+        "geo_level": "CA",
+        "id": "LT213",
+        "percent25": 2.4,
+        "percent50": 2.91,
+        "percent75": 6.4
+    },
+    {
+        "geo_level": "CA",
+        "id": "LT219",
+        "percent25": 6.4,
+        "percent50": 7.76,
+        "percent75": 16
+    },
+    {
+        "geo_level": "CA",
+        "id": "LT313",
+        "percent25": 16,
+        "percent50": 22.31,
+        "percent75": 52.8
+    },
+    {
+        "geo_level": "CA",
+        "id": "LT315",
+        "percent25": 9.6,
+        "percent50": 13.58,
+        "percent75": 32
+    },
+    {
+        "geo_level": "CA",
+        "id": "LT403",
+        "percent25": 76,
+        "percent50": 105.73,
+        "percent75": 212.8
+    },
+    {
+        "geo_level": "CA",
+        "id": "LT503",
+        "percent25": 10.4,
+        "percent50": 12.61,
+        "percent75": 35.2
+    },
+    {
+        "geo_level": "CA",
+        "id": "OV116",
+        "percent25": 59.2,
+        "percent50": 78.57,
+        "percent75": 163.2
+    },
+    {
+        "geo_level": "CA",
+        "id": "OV307",
+        "percent25": 32,
+        "percent50": 44.62,
+        "percent75": 83.2
+    },
+    {
+        "geo_level": "CA",
+        "id": "OV411",
+        "percent25": 119.2,
+        "percent50": 165.87,
+        "percent75": 400
+    },
+    {
+        "geo_level": "CA",
+        "id": "OV412",
+        "percent25": 119.2,
+        "percent50": 165.87,
+        "percent75": 400
+    },
+    {
+        "geo_level": "CA",
+        "id": "OV521",
+        "percent25": 424.8,
+        "percent50": 585.88,
+        "percent75": 1104
+    },
+    {
+        "geo_level": "CA",
+        "id": "PX207",
+        "percent25": 5415.2,
+        "percent50": 9883.33,
+        "percent75": 22161.6
+    },
+    {
+        "geo_level": "CO",
+        "id": "ES001",
+        "percent25": 740,
+        "percent50": 1468.58,
+        "percent75": 3612.8
+    },
+    {
+        "geo_level": "CO",
+        "id": "IM104",
+        "percent25": 445.6,
+        "percent50": 887.55,
+        "percent75": 2136
+    },
+    {
+        "geo_level": "CO",
+        "id": "IM403",
+        "percent25": 140,
+        "percent50": 207.58,
+        "percent75": 398.4
+    },
+    {
+        "geo_level": "CO",
+        "id": "IM407",
+        "percent25": 124,
+        "percent50": 199.82,
+        "percent75": 352
+    },
+    {
+        "geo_level": "CO",
+        "id": "IM601",
+        "percent25": 28,
+        "percent50": 41.71,
+        "percent75": 86.4
+    },
+    {
+        "geo_level": "CO",
+        "id": "IM606",
+        "percent25": 37.6,
+        "percent50": 54.32,
+        "percent75": 107.2
+    },
+    {
+        "geo_level": "CO",
+        "id": "IM616",
+        "percent25": 30.4,
+        "percent50": 40.74,
+        "percent75": 97.6
+    },
+    {
+        "geo_level": "CO",
+        "id": "IM627",
+        "percent25": 44,
+        "percent50": 62.08,
+        "percent75": 118.4
+    },
+    {
+        "geo_level": "CO",
+        "id": "LT105",
+        "percent25": 4.8,
+        "percent50": 6.79,
+        "percent75": 12.8
+    },
+    {
+        "geo_level": "CO",
+        "id": "LT106",
+        "percent25": 5.6,
+        "percent50": 7.76,
+        "percent75": 14.4
+    },
+    {
+        "geo_level": "CO",
+        "id": "LT211",
+        "percent25": 1.6,
+        "percent50": 1.94,
+        "percent75": 6.4
+    },
+    {
+        "geo_level": "CO",
+        "id": "LT213",
+        "percent25": 2.4,
+        "percent50": 4.85,
+        "percent75": 9.6
+    },
+    {
+        "geo_level": "CO",
+        "id": "LT219",
+        "percent25": 4.8,
+        "percent50": 6.79,
+        "percent75": 12.8
+    },
+    {
+        "geo_level": "CO",
+        "id": "LT313",
+        "percent25": 16,
+        "percent50": 19.4,
+        "percent75": 36.8
+    },
+    {
+        "geo_level": "CO",
+        "id": "LT315",
+        "percent25": 9.6,
+        "percent50": 11.64,
+        "percent75": 30.4
+    },
+    {
+        "geo_level": "CO",
+        "id": "LT403",
+        "percent25": 79.2,
+        "percent50": 107.67,
+        "percent75": 216
+    },
+    {
+        "geo_level": "CO",
+        "id": "OV116",
+        "percent25": 62.4,
+        "percent50": 84.39,
+        "percent75": 171.2
+    },
+    {
+        "geo_level": "CO",
+        "id": "OV307",
+        "percent25": 37.6,
+        "percent50": 50.44,
+        "percent75": 97.6
+    },
+    {
+        "geo_level": "CO",
+        "id": "OV411",
+        "percent25": 161.6,
+        "percent50": 233.77,
+        "percent75": 475.2
+    },
+    {
+        "geo_level": "CO",
+        "id": "OV412",
+        "percent25": 161.6,
+        "percent50": 233.77,
+        "percent75": 475.2
+    },
+    {
+        "geo_level": "CO",
+        "id": "OV521",
+        "percent25": 450.4,
+        "percent50": 609.16,
+        "percent75": 1129.6
+    },
+    {
+        "geo_level": "CO",
+        "id": "PX207",
+        "percent25": 4375.2,
+        "percent50": 9764.99,
+        "percent75": 22768
+    },
+    {
+        "geo_level": "CT",
+        "id": "ES001",
+        "percent25": 1026.4,
+        "percent50": 1494.77,
+        "percent75": 3318.4
+    },
+    {
+        "geo_level": "CT",
+        "id": "IM104",
+        "percent25": 220.8,
+        "percent50": 360.84,
+        "percent75": 1054.4
+    },
+    {
+        "geo_level": "CT",
+        "id": "IM211",
+        "percent25": 728.8,
+        "percent50": 1082.52,
+        "percent75": 3028.8
+    },
+    {
+        "geo_level": "CT",
+        "id": "IM403",
+        "percent25": 148,
+        "percent50": 236.68,
+        "percent75": 481.6
+    },
+    {
+        "geo_level": "CT",
+        "id": "IM407",
+        "percent25": 133.6,
+        "percent50": 196.91,
+        "percent75": 392
+    },
+    {
+        "geo_level": "CT",
+        "id": "IM601",
+        "percent25": 32.8,
+        "percent50": 40.74,
+        "percent75": 91.2
+    },
+    {
+        "geo_level": "CT",
+        "id": "IM606",
+        "percent25": 34.4,
+        "percent50": 62.08,
+        "percent75": 124.8
+    },
+    {
+        "geo_level": "CT",
+        "id": "IM616",
+        "percent25": 36.8,
+        "percent50": 57.23,
+        "percent75": 97.6
+    },
+    {
+        "geo_level": "CT",
+        "id": "IM627",
+        "percent25": 40,
+        "percent50": 72.75,
+        "percent75": 145.6
+    },
+    {
+        "geo_level": "CT",
+        "id": "LT105",
+        "percent25": 5.6,
+        "percent50": 7.76,
+        "percent75": 14.4
+    },
+    {
+        "geo_level": "CT",
+        "id": "LT106",
+        "percent25": 6.4,
+        "percent50": 8.73,
+        "percent75": 19.2
+    },
+    {
+        "geo_level": "CT",
+        "id": "LT211",
+        "percent25": 1.6,
+        "percent50": 2.91,
+        "percent75": 6.4
+    },
+    {
+        "geo_level": "CT",
+        "id": "LT213",
+        "percent25": 2.4,
+        "percent50": 3.88,
+        "percent75": 9.6
+    },
+    {
+        "geo_level": "CT",
+        "id": "LT219",
+        "percent25": 7.2,
+        "percent50": 9.7,
+        "percent75": 19.2
+    },
+    {
+        "geo_level": "CT",
+        "id": "LT313",
+        "percent25": 16,
+        "percent50": 22.31,
+        "percent75": 48
+    },
+    {
+        "geo_level": "CT",
+        "id": "LT315",
+        "percent25": 10.4,
+        "percent50": 13.58,
+        "percent75": 28.8
+    },
+    {
+        "geo_level": "CT",
+        "id": "LT403",
+        "percent25": 85.6,
+        "percent50": 124.16,
+        "percent75": 256
+    },
+    {
+        "geo_level": "CT",
+        "id": "OV116",
+        "percent25": 66.4,
+        "percent50": 85.36,
+        "percent75": 166.4
+    },
+    {
+        "geo_level": "CT",
+        "id": "OV307",
+        "percent25": 42.4,
+        "percent50": 52.38,
+        "percent75": 107.2
+    },
+    {
+        "geo_level": "CT",
+        "id": "OV411",
+        "percent25": 196,
+        "percent50": 270.63,
+        "percent75": 486.4
+    },
+    {
+        "geo_level": "CT",
+        "id": "OV412",
+        "percent25": 196,
+        "percent50": 270.63,
+        "percent75": 486.4
+    },
+    {
+        "geo_level": "CT",
+        "id": "OV521",
+        "percent25": 469.6,
+        "percent50": 651.84,
+        "percent75": 1188.8
+    },
+    {
+        "geo_level": "CT",
+        "id": "PX207",
+        "percent25": 6321.6,
+        "percent50": 11244.24,
+        "percent75": 23395.2
+    },
+    {
+        "geo_level": "DE",
+        "id": "ES001",
+        "percent25": 637.6,
+        "percent50": 998.13,
+        "percent75": 2131.2
+    },
+    {
+        "geo_level": "DE",
+        "id": "IM104",
+        "percent25": 145.6,
+        "percent50": 481.12,
+        "percent75": 2107.2
+    },
+    {
+        "geo_level": "DE",
+        "id": "IM403",
+        "percent25": 112.8,
+        "percent50": 150.35,
+        "percent75": 265.6
+    },
+    {
+        "geo_level": "DE",
+        "id": "IM601",
+        "percent25": 23.2,
+        "percent50": 33.95,
+        "percent75": 64
+    },
+    {
+        "geo_level": "DE",
+        "id": "IM606",
+        "percent25": 28.8,
+        "percent50": 44.62,
+        "percent75": 86.4
+    },
+    {
+        "geo_level": "DE",
+        "id": "IM627",
+        "percent25": 40,
+        "percent50": 54.32,
+        "percent75": 110.4
+    },
+    {
+        "geo_level": "DE",
+        "id": "LT211",
+        "percent25": 1.6,
+        "percent50": 1.94,
+        "percent75": 6.4
+    },
+    {
+        "geo_level": "DE",
+        "id": "LT403",
+        "percent25": 60,
+        "percent50": 86.33,
+        "percent75": 156.8
+    },
+    {
+        "geo_level": "DE",
+        "id": "OV116",
+        "percent25": 46.4,
+        "percent50": 68.87,
+        "percent75": 126.4
+    },
+    {
+        "geo_level": "DE",
+        "id": "OV307",
+        "percent25": 28,
+        "percent50": 37.83,
+        "percent75": 76.8
+    },
+    {
+        "geo_level": "DE",
+        "id": "OV411",
+        "percent25": 113.6,
+        "percent50": 176.54,
+        "percent75": 310.4
+    },
+    {
+        "geo_level": "DE",
+        "id": "OV412",
+        "percent25": 113.6,
+        "percent50": 176.54,
+        "percent75": 310.4
+    },
+    {
+        "geo_level": "DE",
+        "id": "PX207",
+        "percent25": 4537.6,
+        "percent50": 10458.54,
+        "percent75": 31342.4
+    },
+    {
+        "geo_level": "FL",
+        "id": "ES001",
+        "percent25": 1050.4,
+        "percent50": 1714.96,
+        "percent75": 3819.2
+    },
+    {
+        "geo_level": "FL",
+        "id": "IM104",
+        "percent25": 480.8,
+        "percent50": 961.27,
+        "percent75": 2729.6
+    },
+    {
+        "geo_level": "FL",
+        "id": "IM211",
+        "percent25": 770.4,
+        "percent50": 1142.66,
+        "percent75": 3403.2
+    },
+    {
+        "geo_level": "FL",
+        "id": "IM403",
+        "percent25": 96,
+        "percent50": 140.65,
+        "percent75": 337.6
+    },
+    {
+        "geo_level": "FL",
+        "id": "IM407",
+        "percent25": 84,
+        "percent50": 166.84,
+        "percent75": 366.4
+    },
+    {
+        "geo_level": "FL",
+        "id": "IM601",
+        "percent25": 20,
+        "percent50": 26.19,
+        "percent75": 64
+    },
+    {
+        "geo_level": "FL",
+        "id": "IM606",
+        "percent25": 23.2,
+        "percent50": 30.07,
+        "percent75": 73.6
+    },
+    {
+        "geo_level": "FL",
+        "id": "IM616",
+        "percent25": 17.6,
+        "percent50": 22.31,
+        "percent75": 54.4
+    },
+    {
+        "geo_level": "FL",
+        "id": "IM627",
+        "percent25": 26.4,
+        "percent50": 36.86,
+        "percent75": 84.8
+    },
+    {
+        "geo_level": "FL",
+        "id": "LT105",
+        "percent25": 5.6,
+        "percent50": 7.76,
+        "percent75": 16
+    },
+    {
+        "geo_level": "FL",
+        "id": "LT106",
+        "percent25": 5.6,
+        "percent50": 8.73,
+        "percent75": 17.6
+    },
+    {
+        "geo_level": "FL",
+        "id": "LT211",
+        "percent25": 1.6,
+        "percent50": 1.94,
+        "percent75": 3.2
+    },
+    {
+        "geo_level": "FL",
+        "id": "LT213",
+        "percent25": 2.4,
+        "percent50": 2.91,
+        "percent75": 6.4
+    },
+    {
+        "geo_level": "FL",
+        "id": "LT219",
+        "percent25": 4.8,
+        "percent50": 6.79,
+        "percent75": 16
+    },
+    {
+        "geo_level": "FL",
+        "id": "LT313",
+        "percent25": 14.4,
+        "percent50": 22.31,
+        "percent75": 49.6
+    },
+    {
+        "geo_level": "FL",
+        "id": "LT315",
+        "percent25": 8.8,
+        "percent50": 14.55,
+        "percent75": 32
+    },
+    {
+        "geo_level": "FL",
+        "id": "LT403",
+        "percent25": 62.4,
+        "percent50": 86.33,
+        "percent75": 174.4
+    },
+    {
+        "geo_level": "FL",
+        "id": "LT503",
+        "percent25": 10.4,
+        "percent50": 17.46,
+        "percent75": 48
+    },
+    {
+        "geo_level": "FL",
+        "id": "OV116",
+        "percent25": 48.8,
+        "percent50": 69.84,
+        "percent75": 140.8
+    },
+    {
+        "geo_level": "FL",
+        "id": "OV307",
+        "percent25": 27.2,
+        "percent50": 37.83,
+        "percent75": 76.8
+    },
+    {
+        "geo_level": "FL",
+        "id": "OV411",
+        "percent25": 142.4,
+        "percent50": 205.64,
+        "percent75": 425.6
+    },
+    {
+        "geo_level": "FL",
+        "id": "OV412",
+        "percent25": 142.4,
+        "percent50": 205.64,
+        "percent75": 425.6
+    },
+    {
+        "geo_level": "FL",
+        "id": "OV521",
+        "percent25": 388.8,
+        "percent50": 507.31,
+        "percent75": 969.6
+    },
+    {
+        "geo_level": "FL",
+        "id": "PX207",
+        "percent25": 4919.2,
+        "percent50": 10883.4,
+        "percent75": 28824
+    },
+    {
+        "geo_level": "GA",
+        "id": "ES001",
+        "percent25": 834.4,
+        "percent50": 1438.51,
+        "percent75": 3672
+    },
+    {
+        "geo_level": "GA",
+        "id": "IM104",
+        "percent25": 408.8,
+        "percent50": 743.99,
+        "percent75": 1758.4
+    },
+    {
+        "geo_level": "GA",
+        "id": "IM211",
+        "percent25": 907.2,
+        "percent50": 1656.76,
+        "percent75": 4072
+    },
+    {
+        "geo_level": "GA",
+        "id": "IM403",
+        "percent25": 129.6,
+        "percent50": 199.82,
+        "percent75": 411.2
+    },
+    {
+        "geo_level": "GA",
+        "id": "IM407",
+        "percent25": 110.4,
+        "percent50": 183.33,
+        "percent75": 444.8
+    },
+    {
+        "geo_level": "GA",
+        "id": "IM601",
+        "percent25": 25.6,
+        "percent50": 37.83,
+        "percent75": 91.2
+    },
+    {
+        "geo_level": "GA",
+        "id": "IM606",
+        "percent25": 32,
+        "percent50": 49.47,
+        "percent75": 105.6
+    },
+    {
+        "geo_level": "GA",
+        "id": "IM616",
+        "percent25": 27.2,
+        "percent50": 41.71,
+        "percent75": 92.8
+    },
+    {
+        "geo_level": "GA",
+        "id": "IM627",
+        "percent25": 36,
+        "percent50": 56.26,
+        "percent75": 113.6
+    },
+    {
+        "geo_level": "GA",
+        "id": "LT105",
+        "percent25": 5.6,
+        "percent50": 11.64,
+        "percent75": 27.2
+    },
+    {
+        "geo_level": "GA",
+        "id": "LT106",
+        "percent25": 6.4,
+        "percent50": 11.64,
+        "percent75": 27.2
+    },
+    {
+        "geo_level": "GA",
+        "id": "LT211",
+        "percent25": 1.6,
+        "percent50": 2.91,
+        "percent75": 6.4
+    },
+    {
+        "geo_level": "GA",
+        "id": "LT213",
+        "percent25": 3.2,
+        "percent50": 5.82,
+        "percent75": 12.8
+    },
+    {
+        "geo_level": "GA",
+        "id": "LT219",
+        "percent25": 5.6,
+        "percent50": 9.7,
+        "percent75": 27.2
+    },
+    {
+        "geo_level": "GA",
+        "id": "LT313",
+        "percent25": 16,
+        "percent50": 31.04,
+        "percent75": 73.6
+    },
+    {
+        "geo_level": "GA",
+        "id": "LT315",
+        "percent25": 11.2,
+        "percent50": 23.28,
+        "percent75": 48
+    },
+    {
+        "geo_level": "GA",
+        "id": "LT403",
+        "percent25": 78.4,
+        "percent50": 111.55,
+        "percent75": 243.2
+    },
+    {
+        "geo_level": "GA",
+        "id": "OV116",
+        "percent25": 58.4,
+        "percent50": 80.51,
+        "percent75": 179.2
+    },
+    {
+        "geo_level": "GA",
+        "id": "OV307",
+        "percent25": 34.4,
+        "percent50": 48.5,
+        "percent75": 105.6
+    },
+    {
+        "geo_level": "GA",
+        "id": "OV411",
+        "percent25": 162.4,
+        "percent50": 261.9,
+        "percent75": 537.6
+    },
+    {
+        "geo_level": "GA",
+        "id": "OV412",
+        "percent25": 162.4,
+        "percent50": 261.9,
+        "percent75": 537.6
+    },
+    {
+        "geo_level": "GA",
+        "id": "OV521",
+        "percent25": 444,
+        "percent50": 645.05,
+        "percent75": 1308.8
+    },
+    {
+        "geo_level": "GA",
+        "id": "PX207",
+        "percent25": 6544,
+        "percent50": 11145.3,
+        "percent75": 25766.4
+    },
+    {
+        "geo_level": "HI",
+        "id": "IM403",
+        "percent25": 152.8,
+        "percent50": 185.27,
+        "percent75": 310.4
+    },
+    {
+        "geo_level": "HI",
+        "id": "IM407",
+        "percent25": 133.6,
+        "percent50": 161.99,
+        "percent75": 267.2
+    },
+    {
+        "geo_level": "HI",
+        "id": "IM601",
+        "percent25": 37.6,
+        "percent50": 45.59,
+        "percent75": 76.8
+    },
+    {
+        "geo_level": "HI",
+        "id": "IM606",
+        "percent25": 36,
+        "percent50": 45.59,
+        "percent75": 75.2
+    },
+    {
+        "geo_level": "HI",
+        "id": "IM627",
+        "percent25": 44,
+        "percent50": 53.35,
+        "percent75": 88
+    },
+    {
+        "geo_level": "HI",
+        "id": "LT105",
+        "percent25": 6.4,
+        "percent50": 8.73,
+        "percent75": 24
+    },
+    {
+        "geo_level": "HI",
+        "id": "LT106",
+        "percent25": 6.4,
+        "percent50": 7.76,
+        "percent75": 19.2
+    },
+    {
+        "geo_level": "HI",
+        "id": "LT211",
+        "percent25": 3.2,
+        "percent50": 3.88,
+        "percent75": 6.4
+    },
+    {
+        "geo_level": "HI",
+        "id": "LT213",
+        "percent25": 2.4,
+        "percent50": 3.88,
+        "percent75": 11.2
+    },
+    {
+        "geo_level": "HI",
+        "id": "LT219",
+        "percent25": 7.2,
+        "percent50": 11.64,
+        "percent75": 25.6
+    },
+    {
+        "geo_level": "HI",
+        "id": "LT313",
+        "percent25": 15.2,
+        "percent50": 21.34,
+        "percent75": 52.8
+    },
+    {
+        "geo_level": "HI",
+        "id": "LT315",
+        "percent25": 9.6,
+        "percent50": 12.61,
+        "percent75": 25.6
+    },
+    {
+        "geo_level": "HI",
+        "id": "LT403",
+        "percent25": 87.2,
+        "percent50": 107.67,
+        "percent75": 188.8
+    },
+    {
+        "geo_level": "HI",
+        "id": "OV116",
+        "percent25": 60,
+        "percent50": 74.69,
+        "percent75": 134.4
+    },
+    {
+        "geo_level": "HI",
+        "id": "OV307",
+        "percent25": 34.4,
+        "percent50": 44.62,
+        "percent75": 80
+    },
+    {
+        "geo_level": "HI",
+        "id": "OV411",
+        "percent25": 161.6,
+        "percent50": 195.94,
+        "percent75": 323.2
+    },
+    {
+        "geo_level": "HI",
+        "id": "OV412",
+        "percent25": 161.6,
+        "percent50": 195.94,
+        "percent75": 323.2
+    },
+    {
+        "geo_level": "HI",
+        "id": "OV521",
+        "percent25": 432,
+        "percent50": 558.72,
+        "percent75": 977.6
+    },
+    {
+        "geo_level": "IA",
+        "id": "ES001",
+        "percent25": 840.8,
+        "percent50": 1223.17,
+        "percent75": 2273.6
+    },
+    {
+        "geo_level": "IA",
+        "id": "IM104",
+        "percent25": 690.4,
+        "percent50": 974.85,
+        "percent75": 1852.8
+    },
+    {
+        "geo_level": "IA",
+        "id": "IM403",
+        "percent25": 230.4,
+        "percent50": 280.33,
+        "percent75": 462.4
+    },
+    {
+        "geo_level": "IA",
+        "id": "IM407",
+        "percent25": 196.8,
+        "percent50": 239.59,
+        "percent75": 395.2
+    },
+    {
+        "geo_level": "IA",
+        "id": "IM601",
+        "percent25": 46.4,
+        "percent50": 57.23,
+        "percent75": 110.4
+    },
+    {
+        "geo_level": "IA",
+        "id": "IM606",
+        "percent25": 57.6,
+        "percent50": 79.54,
+        "percent75": 134.4
+    },
+    {
+        "geo_level": "IA",
+        "id": "IM627",
+        "percent25": 72.8,
+        "percent50": 90.21,
+        "percent75": 150.4
+    },
+    {
+        "geo_level": "IA",
+        "id": "LT105",
+        "percent25": 7.2,
+        "percent50": 8.73,
+        "percent75": 16
+    },
+    {
+        "geo_level": "IA",
+        "id": "LT106",
+        "percent25": 8,
+        "percent50": 9.7,
+        "percent75": 16
+    },
+    {
+        "geo_level": "IA",
+        "id": "LT211",
+        "percent25": 2.4,
+        "percent50": 2.91,
+        "percent75": 4.8
+    },
+    {
+        "geo_level": "IA",
+        "id": "LT213",
+        "percent25": 4,
+        "percent50": 4.85,
+        "percent75": 8
+    },
+    {
+        "geo_level": "IA",
+        "id": "LT219",
+        "percent25": 7.2,
+        "percent50": 8.73,
+        "percent75": 16
+    },
+    {
+        "geo_level": "IA",
+        "id": "LT313",
+        "percent25": 20,
+        "percent50": 24.25,
+        "percent75": 43.2
+    },
+    {
+        "geo_level": "IA",
+        "id": "LT315",
+        "percent25": 12,
+        "percent50": 14.55,
+        "percent75": 25.6
+    },
+    {
+        "geo_level": "IA",
+        "id": "LT403",
+        "percent25": 103.2,
+        "percent50": 135.8,
+        "percent75": 244.8
+    },
+    {
+        "geo_level": "IA",
+        "id": "OV116",
+        "percent25": 79.2,
+        "percent50": 101.85,
+        "percent75": 187.2
+    },
+    {
+        "geo_level": "IA",
+        "id": "OV307",
+        "percent25": 29.6,
+        "percent50": 59.17,
+        "percent75": 113.6
+    },
+    {
+        "geo_level": "IA",
+        "id": "OV411",
+        "percent25": 161.6,
+        "percent50": 277.42,
+        "percent75": 515.2
+    },
+    {
+        "geo_level": "IA",
+        "id": "OV412",
+        "percent25": 161.6,
+        "percent50": 277.42,
+        "percent75": 515.2
+    },
+    {
+        "geo_level": "IA",
+        "id": "OV521",
+        "percent25": 514.4,
+        "percent50": 697.43,
+        "percent75": 1212.8
+    },
+    {
+        "geo_level": "IA",
+        "id": "PX207",
+        "percent25": 7576.8,
+        "percent50": 10166.57,
+        "percent75": 19545.6
+    },
+    {
+        "geo_level": "ID",
+        "id": "ES001",
+        "percent25": 568.8,
+        "percent50": 896.28,
+        "percent75": 2089.6
+    },
+    {
+        "geo_level": "ID",
+        "id": "IM104",
+        "percent25": 479.2,
+        "percent50": 649.9,
+        "percent75": 1379.2
+    },
+    {
+        "geo_level": "ID",
+        "id": "IM211",
+        "percent25": 1315.2,
+        "percent50": 1755.7,
+        "percent75": 3368
+    },
+    {
+        "geo_level": "ID",
+        "id": "IM403",
+        "percent25": 192,
+        "percent50": 234.74,
+        "percent75": 387.2
+    },
+    {
+        "geo_level": "ID",
+        "id": "IM601",
+        "percent25": 44,
+        "percent50": 54.32,
+        "percent75": 89.6
+    },
+    {
+        "geo_level": "ID",
+        "id": "IM606",
+        "percent25": 52.8,
+        "percent50": 64.02,
+        "percent75": 107.2
+    },
+    {
+        "geo_level": "ID",
+        "id": "IM616",
+        "percent25": 40.8,
+        "percent50": 49.47,
+        "percent75": 81.6
+    },
+    {
+        "geo_level": "ID",
+        "id": "IM627",
+        "percent25": 58.4,
+        "percent50": 71.78,
+        "percent75": 120
+    },
+    {
+        "geo_level": "ID",
+        "id": "LT105",
+        "percent25": 9.6,
+        "percent50": 11.64,
+        "percent75": 19.2
+    },
+    {
+        "geo_level": "ID",
+        "id": "LT106",
+        "percent25": 10.4,
+        "percent50": 12.61,
+        "percent75": 20.8
+    },
+    {
+        "geo_level": "ID",
+        "id": "LT211",
+        "percent25": 2.4,
+        "percent50": 2.91,
+        "percent75": 4.8
+    },
+    {
+        "geo_level": "ID",
+        "id": "LT213",
+        "percent25": 4,
+        "percent50": 4.85,
+        "percent75": 8
+    },
+    {
+        "geo_level": "ID",
+        "id": "LT219",
+        "percent25": 10.4,
+        "percent50": 12.61,
+        "percent75": 20.8
+    },
+    {
+        "geo_level": "ID",
+        "id": "LT313",
+        "percent25": 28,
+        "percent50": 33.95,
+        "percent75": 56
+    },
+    {
+        "geo_level": "ID",
+        "id": "LT315",
+        "percent25": 16.8,
+        "percent50": 20.37,
+        "percent75": 33.6
+    },
+    {
+        "geo_level": "ID",
+        "id": "LT403",
+        "percent25": 107.2,
+        "percent50": 136.77,
+        "percent75": 249.6
+    },
+    {
+        "geo_level": "ID",
+        "id": "LT503",
+        "percent25": 16.8,
+        "percent50": 20.37,
+        "percent75": 33.6
+    },
+    {
+        "geo_level": "ID",
+        "id": "OV116",
+        "percent25": 87.2,
+        "percent50": 109.61,
+        "percent75": 203.2
+    },
+    {
+        "geo_level": "ID",
+        "id": "OV307",
+        "percent25": 51.2,
+        "percent50": 64.99,
+        "percent75": 121.6
+    },
+    {
+        "geo_level": "ID",
+        "id": "OV521",
+        "percent25": 551.2,
+        "percent50": 710.04,
+        "percent75": 1225.6
+    },
+    {
+        "geo_level": "ID",
+        "id": "PX207",
+        "percent25": 10279.2,
+        "percent50": 14697.44,
+        "percent75": 26433.6
+    },
+    {
+        "geo_level": "IL",
+        "id": "ES001",
+        "percent25": 607.2,
+        "percent50": 982.61,
+        "percent75": 2240
+    },
+    {
+        "geo_level": "IL",
+        "id": "IM104",
+        "percent25": 452,
+        "percent50": 943.81,
+        "percent75": 2273.6
+    },
+    {
+        "geo_level": "IL",
+        "id": "IM211",
+        "percent25": 837.6,
+        "percent50": 1688.77,
+        "percent75": 4323.2
+    },
+    {
+        "geo_level": "IL",
+        "id": "IM403",
+        "percent25": 166.4,
+        "percent50": 251.23,
+        "percent75": 433.6
+    },
+    {
+        "geo_level": "IL",
+        "id": "IM407",
+        "percent25": 140.8,
+        "percent50": 172.66,
+        "percent75": 345.6
+    },
+    {
+        "geo_level": "IL",
+        "id": "IM601",
+        "percent25": 31.2,
+        "percent50": 45.59,
+        "percent75": 88
+    },
+    {
+        "geo_level": "IL",
+        "id": "IM606",
+        "percent25": 44,
+        "percent50": 69.84,
+        "percent75": 118.4
+    },
+    {
+        "geo_level": "IL",
+        "id": "IM616",
+        "percent25": 33.6,
+        "percent50": 42.68,
+        "percent75": 83.2
+    },
+    {
+        "geo_level": "IL",
+        "id": "IM627",
+        "percent25": 48.8,
+        "percent50": 62.08,
+        "percent75": 121.6
+    },
+    {
+        "geo_level": "IL",
+        "id": "LT105",
+        "percent25": 6.4,
+        "percent50": 8.73,
+        "percent75": 14.4
+    },
+    {
+        "geo_level": "IL",
+        "id": "LT106",
+        "percent25": 5.6,
+        "percent50": 6.79,
+        "percent75": 11.2
+    },
+    {
+        "geo_level": "IL",
+        "id": "LT211",
+        "percent25": 1.6,
+        "percent50": 1.94,
+        "percent75": 3.2
+    },
+    {
+        "geo_level": "IL",
+        "id": "LT213",
+        "percent25": 3.2,
+        "percent50": 3.88,
+        "percent75": 6.4
+    },
+    {
+        "geo_level": "IL",
+        "id": "LT219",
+        "percent25": 5.6,
+        "percent50": 8.73,
+        "percent75": 16
+    },
+    {
+        "geo_level": "IL",
+        "id": "LT313",
+        "percent25": 19.2,
+        "percent50": 23.28,
+        "percent75": 38.4
+    },
+    {
+        "geo_level": "IL",
+        "id": "LT315",
+        "percent25": 11.2,
+        "percent50": 13.58,
+        "percent75": 24
+    },
+    {
+        "geo_level": "IL",
+        "id": "LT403",
+        "percent25": 86.4,
+        "percent50": 114.46,
+        "percent75": 203.2
+    },
+    {
+        "geo_level": "IL",
+        "id": "LT503",
+        "percent25": 10.4,
+        "percent50": 12.61,
+        "percent75": 20.8
+    },
+    {
+        "geo_level": "IL",
+        "id": "OV116",
+        "percent25": 64.8,
+        "percent50": 83.42,
+        "percent75": 150.4
+    },
+    {
+        "geo_level": "IL",
+        "id": "OV307",
+        "percent25": 39.2,
+        "percent50": 50.44,
+        "percent75": 88
+    },
+    {
+        "geo_level": "IL",
+        "id": "OV411",
+        "percent25": 146.4,
+        "percent50": 187.21,
+        "percent75": 360
+    },
+    {
+        "geo_level": "IL",
+        "id": "OV412",
+        "percent25": 146.4,
+        "percent50": 187.21,
+        "percent75": 360
+    },
+    {
+        "geo_level": "IL",
+        "id": "OV521",
+        "percent25": 473.6,
+        "percent50": 638.26,
+        "percent75": 1091.2
+    },
+    {
+        "geo_level": "IL",
+        "id": "PX207",
+        "percent25": 6210.4,
+        "percent50": 11264.61,
+        "percent75": 27996.8
+    },
+    {
+        "geo_level": "IN",
+        "id": "ES001",
+        "percent25": 714.4,
+        "percent50": 1220.26,
+        "percent75": 3014.4
+    },
+    {
+        "geo_level": "IN",
+        "id": "IM104",
+        "percent25": 452.8,
+        "percent50": 819.65,
+        "percent75": 2088
+    },
+    {
+        "geo_level": "IN",
+        "id": "IM403",
+        "percent25": 115.2,
+        "percent50": 141.62,
+        "percent75": 281.6
+    },
+    {
+        "geo_level": "IN",
+        "id": "IM601",
+        "percent25": 22.4,
+        "percent50": 28.13,
+        "percent75": 62.4
+    },
+    {
+        "geo_level": "IN",
+        "id": "IM606",
+        "percent25": 44,
+        "percent50": 67.9,
+        "percent75": 115.2
+    },
+    {
+        "geo_level": "IN",
+        "id": "IM616",
+        "percent25": 22.4,
+        "percent50": 28.13,
+        "percent75": 68.8
+    },
+    {
+        "geo_level": "IN",
+        "id": "IM627",
+        "percent25": 44,
+        "percent50": 54.32,
+        "percent75": 97.6
+    },
+    {
+        "geo_level": "IN",
+        "id": "LT105",
+        "percent25": 3.2,
+        "percent50": 3.88,
+        "percent75": 9.6
+    },
+    {
+        "geo_level": "IN",
+        "id": "LT106",
+        "percent25": 3.2,
+        "percent50": 4.85,
+        "percent75": 12.8
+    },
+    {
+        "geo_level": "IN",
+        "id": "LT211",
+        "percent25": 1.6,
+        "percent50": 1.94,
+        "percent75": 3.2
+    },
+    {
+        "geo_level": "IN",
+        "id": "LT213",
+        "percent25": 1.6,
+        "percent50": 1.94,
+        "percent75": 4.8
+    },
+    {
+        "geo_level": "IN",
+        "id": "LT219",
+        "percent25": 3.2,
+        "percent50": 3.88,
+        "percent75": 9.6
+    },
+    {
+        "geo_level": "IN",
+        "id": "LT313",
+        "percent25": 7.2,
+        "percent50": 11.64,
+        "percent75": 32
+    },
+    {
+        "geo_level": "IN",
+        "id": "LT315",
+        "percent25": 4.8,
+        "percent50": 6.79,
+        "percent75": 19.2
+    },
+    {
+        "geo_level": "IN",
+        "id": "LT403",
+        "percent25": 66.4,
+        "percent50": 93.12,
+        "percent75": 164.8
+    },
+    {
+        "geo_level": "IN",
+        "id": "OV116",
+        "percent25": 49.6,
+        "percent50": 69.84,
+        "percent75": 116.8
+    },
+    {
+        "geo_level": "IN",
+        "id": "OV307",
+        "percent25": 29.6,
+        "percent50": 41.71,
+        "percent75": 70.4
+    },
+    {
+        "geo_level": "IN",
+        "id": "OV411",
+        "percent25": 132,
+        "percent50": 175.57,
+        "percent75": 387.2
+    },
+    {
+        "geo_level": "IN",
+        "id": "OV412",
+        "percent25": 132,
+        "percent50": 175.57,
+        "percent75": 387.2
+    },
+    {
+        "geo_level": "IN",
+        "id": "OV521",
+        "percent25": 412,
+        "percent50": 528.65,
+        "percent75": 982.4
+    },
+    {
+        "geo_level": "IN",
+        "id": "PX207",
+        "percent25": 8750.4,
+        "percent50": 17851.88,
+        "percent75": 37769.6
+    },
+    {
+        "geo_level": "KS",
+        "id": "ES001",
+        "percent25": 687.2,
+        "percent50": 1060.21,
+        "percent75": 1928
+    },
+    {
+        "geo_level": "KS",
+        "id": "IM104",
+        "percent25": 438.4,
+        "percent50": 602.37,
+        "percent75": 1035.2
+    },
+    {
+        "geo_level": "KS",
+        "id": "IM211",
+        "percent25": 591.2,
+        "percent50": 752.72,
+        "percent75": 2563.2
+    },
+    {
+        "geo_level": "KS",
+        "id": "IM403",
+        "percent25": 125.6,
+        "percent50": 161.02,
+        "percent75": 355.2
+    },
+    {
+        "geo_level": "KS",
+        "id": "IM407",
+        "percent25": 145.6,
+        "percent50": 179.45,
+        "percent75": 305.6
+    },
+    {
+        "geo_level": "KS",
+        "id": "IM601",
+        "percent25": 27.2,
+        "percent50": 38.8,
+        "percent75": 78.4
+    },
+    {
+        "geo_level": "KS",
+        "id": "IM606",
+        "percent25": 36,
+        "percent50": 50.44,
+        "percent75": 99.2
+    },
+    {
+        "geo_level": "KS",
+        "id": "IM616",
+        "percent25": 26.4,
+        "percent50": 38.8,
+        "percent75": 73.6
+    },
+    {
+        "geo_level": "KS",
+        "id": "IM627",
+        "percent25": 40.8,
+        "percent50": 53.35,
+        "percent75": 116.8
+    },
+    {
+        "geo_level": "KS",
+        "id": "LT105",
+        "percent25": 7.2,
+        "percent50": 11.64,
+        "percent75": 22.4
+    },
+    {
+        "geo_level": "KS",
+        "id": "LT106",
+        "percent25": 8,
+        "percent50": 12.61,
+        "percent75": 25.6
+    },
+    {
+        "geo_level": "KS",
+        "id": "LT211",
+        "percent25": 2.4,
+        "percent50": 4.85,
+        "percent75": 8
+    },
+    {
+        "geo_level": "KS",
+        "id": "LT213",
+        "percent25": 4,
+        "percent50": 4.85,
+        "percent75": 12.8
+    },
+    {
+        "geo_level": "KS",
+        "id": "LT219",
+        "percent25": 9.6,
+        "percent50": 12.61,
+        "percent75": 20.8
+    },
+    {
+        "geo_level": "KS",
+        "id": "LT313",
+        "percent25": 18.4,
+        "percent50": 32.01,
+        "percent75": 52.8
+    },
+    {
+        "geo_level": "KS",
+        "id": "LT315",
+        "percent25": 11.2,
+        "percent50": 19.4,
+        "percent75": 41.6
+    },
+    {
+        "geo_level": "KS",
+        "id": "LT403",
+        "percent25": 73.6,
+        "percent50": 97.97,
+        "percent75": 204.8
+    },
+    {
+        "geo_level": "KS",
+        "id": "LT503",
+        "percent25": 20,
+        "percent50": 24.25,
+        "percent75": 40
+    },
+    {
+        "geo_level": "KS",
+        "id": "OV116",
+        "percent25": 58.4,
+        "percent50": 74.69,
+        "percent75": 140.8
+    },
+    {
+        "geo_level": "KS",
+        "id": "OV307",
+        "percent25": 34.4,
+        "percent50": 46.56,
+        "percent75": 88
+    },
+    {
+        "geo_level": "KS",
+        "id": "OV411",
+        "percent25": 164,
+        "percent50": 226.01,
+        "percent75": 452.8
+    },
+    {
+        "geo_level": "KS",
+        "id": "OV412",
+        "percent25": 164,
+        "percent50": 226.01,
+        "percent75": 452.8
+    },
+    {
+        "geo_level": "KS",
+        "id": "OV521",
+        "percent25": 454.4,
+        "percent50": 613.04,
+        "percent75": 1224
+    },
+    {
+        "geo_level": "KS",
+        "id": "PX207",
+        "percent25": 6803.2,
+        "percent50": 9085.02,
+        "percent75": 16723.2
+    },
+    {
+        "geo_level": "KY",
+        "id": "ES001",
+        "percent25": 699.2,
+        "percent50": 1050.51,
+        "percent75": 2430.4
+    },
+    {
+        "geo_level": "KY",
+        "id": "IM104",
+        "percent25": 357.6,
+        "percent50": 565.51,
+        "percent75": 1468.8
+    },
+    {
+        "geo_level": "KY",
+        "id": "IM403",
+        "percent25": 106.4,
+        "percent50": 136.77,
+        "percent75": 257.6
+    },
+    {
+        "geo_level": "KY",
+        "id": "IM601",
+        "percent25": 20,
+        "percent50": 27.16,
+        "percent75": 44.8
+    },
+    {
+        "geo_level": "KY",
+        "id": "IM606",
+        "percent25": 25.6,
+        "percent50": 33.95,
+        "percent75": 72
+    },
+    {
+        "geo_level": "KY",
+        "id": "IM616",
+        "percent25": 20,
+        "percent50": 25.22,
+        "percent75": 49.6
+    },
+    {
+        "geo_level": "KY",
+        "id": "IM627",
+        "percent25": 29.6,
+        "percent50": 40.74,
+        "percent75": 89.6
+    },
+    {
+        "geo_level": "KY",
+        "id": "LT105",
+        "percent25": 4,
+        "percent50": 5.82,
+        "percent75": 9.6
+    },
+    {
+        "geo_level": "KY",
+        "id": "LT106",
+        "percent25": 4,
+        "percent50": 7.76,
+        "percent75": 12.8
+    },
+    {
+        "geo_level": "KY",
+        "id": "LT211",
+        "percent25": 1.6,
+        "percent50": 1.94,
+        "percent75": 4.8
+    },
+    {
+        "geo_level": "KY",
+        "id": "LT213",
+        "percent25": 2.4,
+        "percent50": 2.91,
+        "percent75": 6.4
+    },
+    {
+        "geo_level": "KY",
+        "id": "LT219",
+        "percent25": 4.8,
+        "percent50": 5.82,
+        "percent75": 14.4
+    },
+    {
+        "geo_level": "KY",
+        "id": "LT313",
+        "percent25": 9.6,
+        "percent50": 19.4,
+        "percent75": 33.6
+    },
+    {
+        "geo_level": "KY",
+        "id": "LT315",
+        "percent25": 7.2,
+        "percent50": 11.64,
+        "percent75": 19.2
+    },
+    {
+        "geo_level": "KY",
+        "id": "LT403",
+        "percent25": 56.8,
+        "percent50": 75.66,
+        "percent75": 145.6
+    },
+    {
+        "geo_level": "KY",
+        "id": "LT503",
+        "percent25": 5.6,
+        "percent50": 12.61,
+        "percent75": 30.4
+    },
+    {
+        "geo_level": "KY",
+        "id": "OV116",
+        "percent25": 44,
+        "percent50": 58.2,
+        "percent75": 110.4
+    },
+    {
+        "geo_level": "KY",
+        "id": "OV307",
+        "percent25": 26.4,
+        "percent50": 35.89,
+        "percent75": 62.4
+    },
+    {
+        "geo_level": "KY",
+        "id": "OV411",
+        "percent25": 112.8,
+        "percent50": 163.93,
+        "percent75": 360
+    },
+    {
+        "geo_level": "KY",
+        "id": "OV412",
+        "percent25": 112.8,
+        "percent50": 163.93,
+        "percent75": 360
+    },
+    {
+        "geo_level": "KY",
+        "id": "OV521",
+        "percent25": 382.4,
+        "percent50": 503.43,
+        "percent75": 920
+    },
+    {
+        "geo_level": "KY",
+        "id": "PX207",
+        "percent25": 3588,
+        "percent50": 9579.72,
+        "percent75": 26116.8
+    },
+    {
+        "geo_level": "LA",
+        "id": "ES001",
+        "percent25": 361.6,
+        "percent50": 514.1,
+        "percent75": 1065.6
+    },
+    {
+        "geo_level": "LA",
+        "id": "IM104",
+        "percent25": 232,
+        "percent50": 374.42,
+        "percent75": 753.6
+    },
+    {
+        "geo_level": "LA",
+        "id": "IM211",
+        "percent25": 632.8,
+        "percent50": 1046.63,
+        "percent75": 2129.6
+    },
+    {
+        "geo_level": "LA",
+        "id": "IM403",
+        "percent25": 140.8,
+        "percent50": 178.48,
+        "percent75": 313.6
+    },
+    {
+        "geo_level": "LA",
+        "id": "IM407",
+        "percent25": 134.4,
+        "percent50": 186.24,
+        "percent75": 356.8
+    },
+    {
+        "geo_level": "LA",
+        "id": "IM601",
+        "percent25": 27.2,
+        "percent50": 37.83,
+        "percent75": 65.6
+    },
+    {
+        "geo_level": "LA",
+        "id": "IM606",
+        "percent25": 35.2,
+        "percent50": 43.65,
+        "percent75": 75.2
+    },
+    {
+        "geo_level": "LA",
+        "id": "IM616",
+        "percent25": 27.2,
+        "percent50": 35.89,
+        "percent75": 59.2
+    },
+    {
+        "geo_level": "LA",
+        "id": "IM627",
+        "percent25": 38.4,
+        "percent50": 48.5,
+        "percent75": 84.8
+    },
+    {
+        "geo_level": "LA",
+        "id": "LT105",
+        "percent25": 8,
+        "percent50": 11.64,
+        "percent75": 24
+    },
+    {
+        "geo_level": "LA",
+        "id": "LT106",
+        "percent25": 8.8,
+        "percent50": 12.61,
+        "percent75": 24
+    },
+    {
+        "geo_level": "LA",
+        "id": "LT211",
+        "percent25": 2.4,
+        "percent50": 2.91,
+        "percent75": 4.8
+    },
+    {
+        "geo_level": "LA",
+        "id": "LT213",
+        "percent25": 4,
+        "percent50": 4.85,
+        "percent75": 8
+    },
+    {
+        "geo_level": "LA",
+        "id": "LT219",
+        "percent25": 8,
+        "percent50": 9.7,
+        "percent75": 22.4
+    },
+    {
+        "geo_level": "LA",
+        "id": "LT313",
+        "percent25": 20.8,
+        "percent50": 30.07,
+        "percent75": 52.8
+    },
+    {
+        "geo_level": "LA",
+        "id": "LT315",
+        "percent25": 13.6,
+        "percent50": 21.34,
+        "percent75": 40
+    },
+    {
+        "geo_level": "LA",
+        "id": "LT403",
+        "percent25": 71.2,
+        "percent50": 97.97,
+        "percent75": 171.2
+    },
+    {
+        "geo_level": "LA",
+        "id": "LT503",
+        "percent25": 13.6,
+        "percent50": 17.46,
+        "percent75": 33.6
+    },
+    {
+        "geo_level": "LA",
+        "id": "OV116",
+        "percent25": 52,
+        "percent50": 70.81,
+        "percent75": 124.8
+    },
+    {
+        "geo_level": "LA",
+        "id": "OV307",
+        "percent25": 30.4,
+        "percent50": 41.71,
+        "percent75": 72
+    },
+    {
+        "geo_level": "LA",
+        "id": "OV411",
+        "percent25": 148,
+        "percent50": 182.36,
+        "percent75": 328
+    },
+    {
+        "geo_level": "LA",
+        "id": "OV412",
+        "percent25": 148,
+        "percent50": 182.36,
+        "percent75": 328
+    },
+    {
+        "geo_level": "LA",
+        "id": "OV521",
+        "percent25": 465.6,
+        "percent50": 600.43,
+        "percent75": 1048
+    },
+    {
+        "geo_level": "LA",
+        "id": "PX207",
+        "percent25": 6652,
+        "percent50": 11122.99,
+        "percent75": 22035.2
+    },
+    {
+        "geo_level": "MA",
+        "id": "ES001",
+        "percent25": 346.4,
+        "percent50": 508.28,
+        "percent75": 1427.2
+    },
+    {
+        "geo_level": "MA",
+        "id": "IM104",
+        "percent25": 243.2,
+        "percent50": 338.53,
+        "percent75": 827.2
+    },
+    {
+        "geo_level": "MA",
+        "id": "IM211",
+        "percent25": 524.8,
+        "percent50": 1035.96,
+        "percent75": 2052.8
+    },
+    {
+        "geo_level": "MA",
+        "id": "IM403",
+        "percent25": 176.8,
+        "percent50": 292.94,
+        "percent75": 516.8
+    },
+    {
+        "geo_level": "MA",
+        "id": "IM407",
+        "percent25": 172,
+        "percent50": 234.74,
+        "percent75": 512
+    },
+    {
+        "geo_level": "MA",
+        "id": "IM601",
+        "percent25": 24.8,
+        "percent50": 48.5,
+        "percent75": 102.4
+    },
+    {
+        "geo_level": "MA",
+        "id": "IM606",
+        "percent25": 30.4,
+        "percent50": 48.5,
+        "percent75": 134.4
+    },
+    {
+        "geo_level": "MA",
+        "id": "IM616",
+        "percent25": 29.6,
+        "percent50": 45.59,
+        "percent75": 105.6
+    },
+    {
+        "geo_level": "MA",
+        "id": "IM627",
+        "percent25": 36,
+        "percent50": 61.11,
+        "percent75": 147.2
+    },
+    {
+        "geo_level": "MA",
+        "id": "LT105",
+        "percent25": 5.6,
+        "percent50": 9.7,
+        "percent75": 28.8
+    },
+    {
+        "geo_level": "MA",
+        "id": "LT106",
+        "percent25": 6.4,
+        "percent50": 10.67,
+        "percent75": 20.8
+    },
+    {
+        "geo_level": "MA",
+        "id": "LT211",
+        "percent25": 2.4,
+        "percent50": 2.91,
+        "percent75": 6.4
+    },
+    {
+        "geo_level": "MA",
+        "id": "LT213",
+        "percent25": 3.2,
+        "percent50": 4.85,
+        "percent75": 9.6
+    },
+    {
+        "geo_level": "MA",
+        "id": "LT219",
+        "percent25": 6.4,
+        "percent50": 10.67,
+        "percent75": 22.4
+    },
+    {
+        "geo_level": "MA",
+        "id": "LT313",
+        "percent25": 16,
+        "percent50": 23.28,
+        "percent75": 62.4
+    },
+    {
+        "geo_level": "MA",
+        "id": "LT315",
+        "percent25": 9.6,
+        "percent50": 13.58,
+        "percent75": 27.2
+    },
+    {
+        "geo_level": "MA",
+        "id": "LT403",
+        "percent25": 89.6,
+        "percent50": 153.26,
+        "percent75": 329.6
+    },
+    {
+        "geo_level": "MA",
+        "id": "LT503",
+        "percent25": 12.8,
+        "percent50": 18.43,
+        "percent75": 40
+    },
+    {
+        "geo_level": "MA",
+        "id": "OV116",
+        "percent25": 68,
+        "percent50": 121.25,
+        "percent75": 233.6
+    },
+    {
+        "geo_level": "MA",
+        "id": "OV307",
+        "percent25": 36.8,
+        "percent50": 57.23,
+        "percent75": 136
+    },
+    {
+        "geo_level": "MA",
+        "id": "OV411",
+        "percent25": 180,
+        "percent50": 341.44,
+        "percent75": 592
+    },
+    {
+        "geo_level": "MA",
+        "id": "OV412",
+        "percent25": 180,
+        "percent50": 341.44,
+        "percent75": 592
+    },
+    {
+        "geo_level": "MA",
+        "id": "OV521",
+        "percent25": 511.2,
+        "percent50": 725.56,
+        "percent75": 1452.8
+    },
+    {
+        "geo_level": "MA",
+        "id": "PX207",
+        "percent25": 6355.2,
+        "percent50": 9271.26,
+        "percent75": 20572.8
+    },
+    {
+        "geo_level": "MD",
+        "id": "ES001",
+        "percent25": 572,
+        "percent50": 915.68,
+        "percent75": 2145.6
+    },
+    {
+        "geo_level": "MD",
+        "id": "IM104",
+        "percent25": 106.4,
+        "percent50": 171.69,
+        "percent75": 488
+    },
+    {
+        "geo_level": "MD",
+        "id": "IM403",
+        "percent25": 112.8,
+        "percent50": 170.72,
+        "percent75": 368
+    },
+    {
+        "geo_level": "MD",
+        "id": "IM407",
+        "percent25": 118.4,
+        "percent50": 185.27,
+        "percent75": 400
+    },
+    {
+        "geo_level": "MD",
+        "id": "IM601",
+        "percent25": 24.8,
+        "percent50": 38.8,
+        "percent75": 84.8
+    },
+    {
+        "geo_level": "MD",
+        "id": "IM606",
+        "percent25": 30.4,
+        "percent50": 43.65,
+        "percent75": 92.8
+    },
+    {
+        "geo_level": "MD",
+        "id": "IM616",
+        "percent25": 22.4,
+        "percent50": 31.04,
+        "percent75": 68.8
+    },
+    {
+        "geo_level": "MD",
+        "id": "IM627",
+        "percent25": 36,
+        "percent50": 56.26,
+        "percent75": 112
+    },
+    {
+        "geo_level": "MD",
+        "id": "LT105",
+        "percent25": 5.6,
+        "percent50": 7.76,
+        "percent75": 17.6
+    },
+    {
+        "geo_level": "MD",
+        "id": "LT106",
+        "percent25": 5.6,
+        "percent50": 8.73,
+        "percent75": 17.6
+    },
+    {
+        "geo_level": "MD",
+        "id": "LT211",
+        "percent25": 1.6,
+        "percent50": 1.94,
+        "percent75": 4.8
+    },
+    {
+        "geo_level": "MD",
+        "id": "LT213",
+        "percent25": 2.4,
+        "percent50": 3.88,
+        "percent75": 8
+    },
+    {
+        "geo_level": "MD",
+        "id": "LT219",
+        "percent25": 5.6,
+        "percent50": 7.76,
+        "percent75": 16
+    },
+    {
+        "geo_level": "MD",
+        "id": "LT313",
+        "percent25": 16,
+        "percent50": 23.28,
+        "percent75": 51.2
+    },
+    {
+        "geo_level": "MD",
+        "id": "LT315",
+        "percent25": 8.8,
+        "percent50": 13.58,
+        "percent75": 28.8
+    },
+    {
+        "geo_level": "MD",
+        "id": "LT403",
+        "percent25": 69.6,
+        "percent50": 100.88,
+        "percent75": 203.2
+    },
+    {
+        "geo_level": "MD",
+        "id": "LT503",
+        "percent25": 12.8,
+        "percent50": 18.43,
+        "percent75": 51.2
+    },
+    {
+        "geo_level": "MD",
+        "id": "OV116",
+        "percent25": 53.6,
+        "percent50": 76.63,
+        "percent75": 153.6
+    },
+    {
+        "geo_level": "MD",
+        "id": "OV307",
+        "percent25": 28.8,
+        "percent50": 42.68,
+        "percent75": 88
+    },
+    {
+        "geo_level": "MD",
+        "id": "OV411",
+        "percent25": 94.4,
+        "percent50": 165.87,
+        "percent75": 395.2
+    },
+    {
+        "geo_level": "MD",
+        "id": "OV412",
+        "percent25": 94.4,
+        "percent50": 165.87,
+        "percent75": 395.2
+    },
+    {
+        "geo_level": "MD",
+        "id": "OV521",
+        "percent25": 405.6,
+        "percent50": 540.29,
+        "percent75": 1035.2
+    },
+    {
+        "geo_level": "MD",
+        "id": "PX207",
+        "percent25": 5101.6,
+        "percent50": 9906.61,
+        "percent75": 20091.2
+    },
+    {
+        "geo_level": "ME",
+        "id": "ES001",
+        "percent25": 612,
+        "percent50": 914.71,
+        "percent75": 1923.2
+    },
+    {
+        "geo_level": "ME",
+        "id": "IM104",
+        "percent25": 680.8,
+        "percent50": 1024.32,
+        "percent75": 2123.2
+    },
+    {
+        "geo_level": "ME",
+        "id": "IM403",
+        "percent25": 103.2,
+        "percent50": 158.11,
+        "percent75": 353.6
+    },
+    {
+        "geo_level": "ME",
+        "id": "IM407",
+        "percent25": 96,
+        "percent50": 135.8,
+        "percent75": 312
+    },
+    {
+        "geo_level": "ME",
+        "id": "IM601",
+        "percent25": 23.2,
+        "percent50": 34.92,
+        "percent75": 75.2
+    },
+    {
+        "geo_level": "ME",
+        "id": "IM606",
+        "percent25": 28,
+        "percent50": 41.71,
+        "percent75": 94.4
+    },
+    {
+        "geo_level": "ME",
+        "id": "IM616",
+        "percent25": 21.6,
+        "percent50": 32.98,
+        "percent75": 75.2
+    },
+    {
+        "geo_level": "ME",
+        "id": "IM627",
+        "percent25": 30.4,
+        "percent50": 48.5,
+        "percent75": 102.4
+    },
+    {
+        "geo_level": "ME",
+        "id": "LT105",
+        "percent25": 5.6,
+        "percent50": 8.73,
+        "percent75": 17.6
+    },
+    {
+        "geo_level": "ME",
+        "id": "LT106",
+        "percent25": 4.8,
+        "percent50": 7.76,
+        "percent75": 19.2
+    },
+    {
+        "geo_level": "ME",
+        "id": "LT211",
+        "percent25": 1.6,
+        "percent50": 1.94,
+        "percent75": 4.8
+    },
+    {
+        "geo_level": "ME",
+        "id": "LT213",
+        "percent25": 2.4,
+        "percent50": 3.88,
+        "percent75": 8
+    },
+    {
+        "geo_level": "ME",
+        "id": "LT219",
+        "percent25": 4.8,
+        "percent50": 8.73,
+        "percent75": 16
+    },
+    {
+        "geo_level": "ME",
+        "id": "LT313",
+        "percent25": 16.8,
+        "percent50": 23.28,
+        "percent75": 54.4
+    },
+    {
+        "geo_level": "ME",
+        "id": "LT315",
+        "percent25": 10.4,
+        "percent50": 14.55,
+        "percent75": 30.4
+    },
+    {
+        "geo_level": "ME",
+        "id": "LT403",
+        "percent25": 69.6,
+        "percent50": 98.94,
+        "percent75": 206.4
+    },
+    {
+        "geo_level": "ME",
+        "id": "LT503",
+        "percent25": 7.2,
+        "percent50": 12.61,
+        "percent75": 27.2
+    },
+    {
+        "geo_level": "ME",
+        "id": "OV116",
+        "percent25": 55.2,
+        "percent50": 77.6,
+        "percent75": 156.8
+    },
+    {
+        "geo_level": "ME",
+        "id": "OV307",
+        "percent25": 33.6,
+        "percent50": 46.56,
+        "percent75": 91.2
+    },
+    {
+        "geo_level": "ME",
+        "id": "OV411",
+        "percent25": 136.8,
+        "percent50": 191.09,
+        "percent75": 412.8
+    },
+    {
+        "geo_level": "ME",
+        "id": "OV412",
+        "percent25": 136.8,
+        "percent50": 191.09,
+        "percent75": 412.8
+    },
+    {
+        "geo_level": "ME",
+        "id": "OV521",
+        "percent25": 422.4,
+        "percent50": 573.27,
+        "percent75": 1152
+    },
+    {
+        "geo_level": "MI",
+        "id": "ES001",
+        "percent25": 473.6,
+        "percent50": 724.59,
+        "percent75": 1566.4
+    },
+    {
+        "geo_level": "MI",
+        "id": "IM104",
+        "percent25": 174.4,
+        "percent50": 420.98,
+        "percent75": 1500.8
+    },
+    {
+        "geo_level": "MI",
+        "id": "IM211",
+        "percent25": 521.6,
+        "percent50": 906.95,
+        "percent75": 3195.2
+    },
+    {
+        "geo_level": "MI",
+        "id": "IM403",
+        "percent25": 164,
+        "percent50": 208.55,
+        "percent75": 364.8
+    },
+    {
+        "geo_level": "MI",
+        "id": "IM407",
+        "percent25": 148,
+        "percent50": 185.27,
+        "percent75": 313.6
+    },
+    {
+        "geo_level": "MI",
+        "id": "IM601",
+        "percent25": 38.4,
+        "percent50": 47.53,
+        "percent75": 78.4
+    },
+    {
+        "geo_level": "MI",
+        "id": "IM606",
+        "percent25": 45.6,
+        "percent50": 58.2,
+        "percent75": 97.6
+    },
+    {
+        "geo_level": "MI",
+        "id": "IM616",
+        "percent25": 36,
+        "percent50": 44.62,
+        "percent75": 75.2
+    },
+    {
+        "geo_level": "MI",
+        "id": "IM627",
+        "percent25": 52,
+        "percent50": 64.99,
+        "percent75": 112
+    },
+    {
+        "geo_level": "MI",
+        "id": "LT105",
+        "percent25": 7.2,
+        "percent50": 8.73,
+        "percent75": 14.4
+    },
+    {
+        "geo_level": "MI",
+        "id": "LT106",
+        "percent25": 5.6,
+        "percent50": 8.73,
+        "percent75": 16
+    },
+    {
+        "geo_level": "MI",
+        "id": "LT211",
+        "percent25": 1.6,
+        "percent50": 1.94,
+        "percent75": 3.2
+    },
+    {
+        "geo_level": "MI",
+        "id": "LT213",
+        "percent25": 2.4,
+        "percent50": 2.91,
+        "percent75": 4.8
+    },
+    {
+        "geo_level": "MI",
+        "id": "LT219",
+        "percent25": 4.8,
+        "percent50": 10.67,
+        "percent75": 17.6
+    },
+    {
+        "geo_level": "MI",
+        "id": "LT313",
+        "percent25": 9.6,
+        "percent50": 17.46,
+        "percent75": 36.8
+    },
+    {
+        "geo_level": "MI",
+        "id": "LT315",
+        "percent25": 8.8,
+        "percent50": 10.67,
+        "percent75": 22.4
+    },
+    {
+        "geo_level": "MI",
+        "id": "LT403",
+        "percent25": 80.8,
+        "percent50": 98.94,
+        "percent75": 176
+    },
+    {
+        "geo_level": "MI",
+        "id": "OV116",
+        "percent25": 64.8,
+        "percent50": 78.57,
+        "percent75": 142.4
+    },
+    {
+        "geo_level": "MI",
+        "id": "OV307",
+        "percent25": 39.2,
+        "percent50": 47.53,
+        "percent75": 86.4
+    },
+    {
+        "geo_level": "MI",
+        "id": "OV411",
+        "percent25": 163.2,
+        "percent50": 239.59,
+        "percent75": 481.6
+    },
+    {
+        "geo_level": "MI",
+        "id": "OV412",
+        "percent25": 163.2,
+        "percent50": 239.59,
+        "percent75": 481.6
+    },
+    {
+        "geo_level": "MI",
+        "id": "OV521",
+        "percent25": 460,
+        "percent50": 598.49,
+        "percent75": 1038.4
+    },
+    {
+        "geo_level": "MI",
+        "id": "PX207",
+        "percent25": 4020,
+        "percent50": 5892.75,
+        "percent75": 14206.4
+    },
+    {
+        "geo_level": "MN",
+        "id": "ES001",
+        "percent25": 695.2,
+        "percent50": 1084.46,
+        "percent75": 2596.8
+    },
+    {
+        "geo_level": "MN",
+        "id": "IM104",
+        "percent25": 377.6,
+        "percent50": 848.75,
+        "percent75": 2088
+    },
+    {
+        "geo_level": "MN",
+        "id": "IM403",
+        "percent25": 214.4,
+        "percent50": 356.96,
+        "percent75": 657.6
+    },
+    {
+        "geo_level": "MN",
+        "id": "IM407",
+        "percent25": 178.4,
+        "percent50": 312.34,
+        "percent75": 571.2
+    },
+    {
+        "geo_level": "MN",
+        "id": "IM601",
+        "percent25": 56.8,
+        "percent50": 81.48,
+        "percent75": 153.6
+    },
+    {
+        "geo_level": "MN",
+        "id": "IM606",
+        "percent25": 69.6,
+        "percent50": 101.85,
+        "percent75": 180.8
+    },
+    {
+        "geo_level": "MN",
+        "id": "IM627",
+        "percent25": 74.4,
+        "percent50": 116.4,
+        "percent75": 235.2
+    },
+    {
+        "geo_level": "MN",
+        "id": "LT105",
+        "percent25": 8.8,
+        "percent50": 11.64,
+        "percent75": 25.6
+    },
+    {
+        "geo_level": "MN",
+        "id": "LT106",
+        "percent25": 8.8,
+        "percent50": 10.67,
+        "percent75": 25.6
+    },
+    {
+        "geo_level": "MN",
+        "id": "LT211",
+        "percent25": 2.4,
+        "percent50": 2.91,
+        "percent75": 8
+    },
+    {
+        "geo_level": "MN",
+        "id": "LT213",
+        "percent25": 4,
+        "percent50": 5.82,
+        "percent75": 12.8
+    },
+    {
+        "geo_level": "MN",
+        "id": "LT219",
+        "percent25": 8,
+        "percent50": 14.55,
+        "percent75": 32
+    },
+    {
+        "geo_level": "MN",
+        "id": "LT313",
+        "percent25": 20,
+        "percent50": 32.01,
+        "percent75": 72
+    },
+    {
+        "geo_level": "MN",
+        "id": "LT315",
+        "percent25": 12.8,
+        "percent50": 18.43,
+        "percent75": 44.8
+    },
+    {
+        "geo_level": "MN",
+        "id": "LT403",
+        "percent25": 101.6,
+        "percent50": 167.81,
+        "percent75": 353.6
+    },
+    {
+        "geo_level": "MN",
+        "id": "OV116",
+        "percent25": 75.2,
+        "percent50": 123.19,
+        "percent75": 272
+    },
+    {
+        "geo_level": "MN",
+        "id": "OV307",
+        "percent25": 36,
+        "percent50": 73.72,
+        "percent75": 168
+    },
+    {
+        "geo_level": "MN",
+        "id": "OV411",
+        "percent25": 280.8,
+        "percent50": 436.5,
+        "percent75": 819.2
+    },
+    {
+        "geo_level": "MN",
+        "id": "OV412",
+        "percent25": 280.8,
+        "percent50": 436.5,
+        "percent75": 819.2
+    },
+    {
+        "geo_level": "MN",
+        "id": "PX207",
+        "percent25": 8086.4,
+        "percent50": 14432.63,
+        "percent75": 30462.4
+    },
+    {
+        "geo_level": "MO",
+        "id": "ES001",
+        "percent25": 629.6,
+        "percent50": 1045.66,
+        "percent75": 2241.6
+    },
+    {
+        "geo_level": "MO",
+        "id": "IM104",
+        "percent25": 286.4,
+        "percent50": 663.48,
+        "percent75": 2334.4
+    },
+    {
+        "geo_level": "MO",
+        "id": "IM211",
+        "percent25": 652,
+        "percent50": 1587.89,
+        "percent75": 4144
+    },
+    {
+        "geo_level": "MO",
+        "id": "IM403",
+        "percent25": 114.4,
+        "percent50": 155.2,
+        "percent75": 286.4
+    },
+    {
+        "geo_level": "MO",
+        "id": "IM407",
+        "percent25": 101.6,
+        "percent50": 149.38,
+        "percent75": 270.4
+    },
+    {
+        "geo_level": "MO",
+        "id": "IM601",
+        "percent25": 24,
+        "percent50": 32.01,
+        "percent75": 59.2
+    },
+    {
+        "geo_level": "MO",
+        "id": "IM606",
+        "percent25": 30.4,
+        "percent50": 41.71,
+        "percent75": 78.4
+    },
+    {
+        "geo_level": "MO",
+        "id": "IM616",
+        "percent25": 23.2,
+        "percent50": 32.98,
+        "percent75": 60.8
+    },
+    {
+        "geo_level": "MO",
+        "id": "IM627",
+        "percent25": 32.8,
+        "percent50": 50.44,
+        "percent75": 99.2
+    },
+    {
+        "geo_level": "MO",
+        "id": "LT105",
+        "percent25": 9.6,
+        "percent50": 11.64,
+        "percent75": 22.4
+    },
+    {
+        "geo_level": "MO",
+        "id": "LT106",
+        "percent25": 9.6,
+        "percent50": 12.61,
+        "percent75": 20.8
+    },
+    {
+        "geo_level": "MO",
+        "id": "LT211",
+        "percent25": 2.4,
+        "percent50": 2.91,
+        "percent75": 6.4
+    },
+    {
+        "geo_level": "MO",
+        "id": "LT213",
+        "percent25": 4,
+        "percent50": 4.85,
+        "percent75": 8
+    },
+    {
+        "geo_level": "MO",
+        "id": "LT219",
+        "percent25": 6.4,
+        "percent50": 11.64,
+        "percent75": 20.8
+    },
+    {
+        "geo_level": "MO",
+        "id": "LT313",
+        "percent25": 26.4,
+        "percent50": 32.01,
+        "percent75": 78.4
+    },
+    {
+        "geo_level": "MO",
+        "id": "LT315",
+        "percent25": 15.2,
+        "percent50": 19.4,
+        "percent75": 40
+    },
+    {
+        "geo_level": "MO",
+        "id": "LT403",
+        "percent25": 68,
+        "percent50": 95.06,
+        "percent75": 180.8
+    },
+    {
+        "geo_level": "MO",
+        "id": "OV116",
+        "percent25": 52.8,
+        "percent50": 72.75,
+        "percent75": 139.2
+    },
+    {
+        "geo_level": "MO",
+        "id": "OV307",
+        "percent25": 30.4,
+        "percent50": 42.68,
+        "percent75": 80
+    },
+    {
+        "geo_level": "MO",
+        "id": "OV411",
+        "percent25": 164.8,
+        "percent50": 226.01,
+        "percent75": 459.2
+    },
+    {
+        "geo_level": "MO",
+        "id": "OV412",
+        "percent25": 164.8,
+        "percent50": 226.01,
+        "percent75": 459.2
+    },
+    {
+        "geo_level": "MO",
+        "id": "OV521",
+        "percent25": 455.2,
+        "percent50": 613.04,
+        "percent75": 1166.4
+    },
+    {
+        "geo_level": "MO",
+        "id": "PX207",
+        "percent25": 4629.6,
+        "percent50": 8702.84,
+        "percent75": 18716.8
+    },
+    {
+        "geo_level": "MS",
+        "id": "ES001",
+        "percent25": 408.8,
+        "percent50": 563.57,
+        "percent75": 1084.8
+    },
+    {
+        "geo_level": "MS",
+        "id": "IM104",
+        "percent25": 236.8,
+        "percent50": 289.06,
+        "percent75": 563.2
+    },
+    {
+        "geo_level": "MS",
+        "id": "IM403",
+        "percent25": 173.6,
+        "percent50": 214.37,
+        "percent75": 353.6
+    },
+    {
+        "geo_level": "MS",
+        "id": "IM601",
+        "percent25": 41.6,
+        "percent50": 50.44,
+        "percent75": 84.8
+    },
+    {
+        "geo_level": "MS",
+        "id": "IM606",
+        "percent25": 42.4,
+        "percent50": 52.38,
+        "percent75": 86.4
+    },
+    {
+        "geo_level": "MS",
+        "id": "IM616",
+        "percent25": 32.8,
+        "percent50": 39.77,
+        "percent75": 67.2
+    },
+    {
+        "geo_level": "MS",
+        "id": "IM627",
+        "percent25": 51.2,
+        "percent50": 62.08,
+        "percent75": 102.4
+    },
+    {
+        "geo_level": "MS",
+        "id": "LT105",
+        "percent25": 12,
+        "percent50": 17.46,
+        "percent75": 28.8
+    },
+    {
+        "geo_level": "MS",
+        "id": "LT106",
+        "percent25": 12.8,
+        "percent50": 19.4,
+        "percent75": 32
+    },
+    {
+        "geo_level": "MS",
+        "id": "LT211",
+        "percent25": 2.4,
+        "percent50": 6.79,
+        "percent75": 11.2
+    },
+    {
+        "geo_level": "MS",
+        "id": "LT213",
+        "percent25": 6.4,
+        "percent50": 7.76,
+        "percent75": 12.8
+    },
+    {
+        "geo_level": "MS",
+        "id": "LT219",
+        "percent25": 5.6,
+        "percent50": 16.49,
+        "percent75": 28.8
+    },
+    {
+        "geo_level": "MS",
+        "id": "LT313",
+        "percent25": 24.8,
+        "percent50": 38.8,
+        "percent75": 64
+    },
+    {
+        "geo_level": "MS",
+        "id": "LT315",
+        "percent25": 11.2,
+        "percent50": 29.1,
+        "percent75": 48
+    },
+    {
+        "geo_level": "MS",
+        "id": "LT403",
+        "percent25": 84.8,
+        "percent50": 102.82,
+        "percent75": 169.6
+    },
+    {
+        "geo_level": "MS",
+        "id": "LT503",
+        "percent25": 34.4,
+        "percent50": 41.71,
+        "percent75": 68.8
+    },
+    {
+        "geo_level": "MS",
+        "id": "OV116",
+        "percent25": 60.8,
+        "percent50": 73.72,
+        "percent75": 121.6
+    },
+    {
+        "geo_level": "MS",
+        "id": "OV307",
+        "percent25": 36.8,
+        "percent50": 44.62,
+        "percent75": 73.6
+    },
+    {
+        "geo_level": "MS",
+        "id": "OV411",
+        "percent25": 160,
+        "percent50": 194.97,
+        "percent75": 321.6
+    },
+    {
+        "geo_level": "MS",
+        "id": "OV412",
+        "percent25": 160,
+        "percent50": 194.97,
+        "percent75": 321.6
+    },
+    {
+        "geo_level": "MS",
+        "id": "OV521",
+        "percent25": 505.6,
+        "percent50": 628.56,
+        "percent75": 1078.4
+    },
+    {
+        "geo_level": "MT",
+        "id": "IM104",
+        "percent25": 570.4,
+        "percent50": 1004.92,
+        "percent75": 2083.2
+    },
+    {
+        "geo_level": "MT",
+        "id": "IM403",
+        "percent25": 187.2,
+        "percent50": 230.86,
+        "percent75": 387.2
+    },
+    {
+        "geo_level": "MT",
+        "id": "IM601",
+        "percent25": 40.8,
+        "percent50": 52.38,
+        "percent75": 86.4
+    },
+    {
+        "geo_level": "MT",
+        "id": "IM606",
+        "percent25": 48,
+        "percent50": 62.08,
+        "percent75": 102.4
+    },
+    {
+        "geo_level": "MT",
+        "id": "IM627",
+        "percent25": 53.6,
+        "percent50": 69.84,
+        "percent75": 115.2
+    },
+    {
+        "geo_level": "MT",
+        "id": "LT105",
+        "percent25": 9.6,
+        "percent50": 11.64,
+        "percent75": 22.4
+    },
+    {
+        "geo_level": "MT",
+        "id": "LT106",
+        "percent25": 9.6,
+        "percent50": 11.64,
+        "percent75": 24
+    },
+    {
+        "geo_level": "MT",
+        "id": "LT211",
+        "percent25": 2.4,
+        "percent50": 2.91,
+        "percent75": 6.4
+    },
+    {
+        "geo_level": "MT",
+        "id": "LT213",
+        "percent25": 4.8,
+        "percent50": 5.82,
+        "percent75": 9.6
+    },
+    {
+        "geo_level": "MT",
+        "id": "LT313",
+        "percent25": 26.4,
+        "percent50": 32.01,
+        "percent75": 52.8
+    },
+    {
+        "geo_level": "MT",
+        "id": "LT315",
+        "percent25": 15.2,
+        "percent50": 19.4,
+        "percent75": 32
+    },
+    {
+        "geo_level": "MT",
+        "id": "LT403",
+        "percent25": 108,
+        "percent50": 136.77,
+        "percent75": 243.2
+    },
+    {
+        "geo_level": "MT",
+        "id": "OV116",
+        "percent25": 85.6,
+        "percent50": 109.61,
+        "percent75": 196.8
+    },
+    {
+        "geo_level": "MT",
+        "id": "OV307",
+        "percent25": 50.4,
+        "percent50": 65.96,
+        "percent75": 118.4
+    },
+    {
+        "geo_level": "NC",
+        "id": "ES001",
+        "percent25": 752,
+        "percent50": 1126.17,
+        "percent75": 2304
+    },
+    {
+        "geo_level": "NC",
+        "id": "IM104",
+        "percent25": 648,
+        "percent50": 1030.14,
+        "percent75": 2131.2
+    },
+    {
+        "geo_level": "NC",
+        "id": "IM211",
+        "percent25": 1514.4,
+        "percent50": 2743.16,
+        "percent75": 5361.6
+    },
+    {
+        "geo_level": "NC",
+        "id": "IM403",
+        "percent25": 160,
+        "percent50": 229.89,
+        "percent75": 492.8
+    },
+    {
+        "geo_level": "NC",
+        "id": "IM407",
+        "percent25": 173.6,
+        "percent50": 234.74,
+        "percent75": 417.6
+    },
+    {
+        "geo_level": "NC",
+        "id": "IM601",
+        "percent25": 32,
+        "percent50": 50.44,
+        "percent75": 102.4
+    },
+    {
+        "geo_level": "NC",
+        "id": "IM606",
+        "percent25": 41.6,
+        "percent50": 57.23,
+        "percent75": 121.6
+    },
+    {
+        "geo_level": "NC",
+        "id": "IM616",
+        "percent25": 32,
+        "percent50": 46.56,
+        "percent75": 91.2
+    },
+    {
+        "geo_level": "NC",
+        "id": "IM627",
+        "percent25": 44.8,
+        "percent50": 64.99,
+        "percent75": 140.8
+    },
+    {
+        "geo_level": "NC",
+        "id": "LT105",
+        "percent25": 4.8,
+        "percent50": 7.76,
+        "percent75": 19.2
+    },
+    {
+        "geo_level": "NC",
+        "id": "LT106",
+        "percent25": 4,
+        "percent50": 7.76,
+        "percent75": 19.2
+    },
+    {
+        "geo_level": "NC",
+        "id": "LT211",
+        "percent25": 1.6,
+        "percent50": 1.94,
+        "percent75": 4.8
+    },
+    {
+        "geo_level": "NC",
+        "id": "LT213",
+        "percent25": 3.2,
+        "percent50": 3.88,
+        "percent75": 8
+    },
+    {
+        "geo_level": "NC",
+        "id": "LT219",
+        "percent25": 5.6,
+        "percent50": 8.73,
+        "percent75": 14.4
+    },
+    {
+        "geo_level": "NC",
+        "id": "LT313",
+        "percent25": 17.6,
+        "percent50": 26.19,
+        "percent75": 46.4
+    },
+    {
+        "geo_level": "NC",
+        "id": "LT315",
+        "percent25": 9.6,
+        "percent50": 13.58,
+        "percent75": 30.4
+    },
+    {
+        "geo_level": "NC",
+        "id": "LT403",
+        "percent25": 75.2,
+        "percent50": 113.49,
+        "percent75": 257.6
+    },
+    {
+        "geo_level": "NC",
+        "id": "LT503",
+        "percent25": 11.2,
+        "percent50": 20.37,
+        "percent75": 48
+    },
+    {
+        "geo_level": "NC",
+        "id": "OV116",
+        "percent25": 61.6,
+        "percent50": 96.03,
+        "percent75": 201.6
+    },
+    {
+        "geo_level": "NC",
+        "id": "OV307",
+        "percent25": 35.2,
+        "percent50": 57.23,
+        "percent75": 123.2
+    },
+    {
+        "geo_level": "NC",
+        "id": "OV411",
+        "percent25": 207.2,
+        "percent50": 307.49,
+        "percent75": 611.2
+    },
+    {
+        "geo_level": "NC",
+        "id": "OV412",
+        "percent25": 207.2,
+        "percent50": 307.49,
+        "percent75": 611.2
+    },
+    {
+        "geo_level": "NC",
+        "id": "OV521",
+        "percent25": 452,
+        "percent50": 646.99,
+        "percent75": 1268.8
+    },
+    {
+        "geo_level": "NC",
+        "id": "PX207",
+        "percent25": 9054.4,
+        "percent50": 15547.16,
+        "percent75": 31211.2
+    },
+    {
+        "geo_level": "ND",
+        "id": "LT105",
+        "percent25": 20.8,
+        "percent50": 25.22,
+        "percent75": 41.6
+    },
+    {
+        "geo_level": "ND",
+        "id": "LT106",
+        "percent25": 21.6,
+        "percent50": 26.19,
+        "percent75": 43.2
+    },
+    {
+        "geo_level": "ND",
+        "id": "LT211",
+        "percent25": 5.6,
+        "percent50": 6.79,
+        "percent75": 11.2
+    },
+    {
+        "geo_level": "ND",
+        "id": "LT219",
+        "percent25": 14.4,
+        "percent50": 25.22,
+        "percent75": 41.6
+    },
+    {
+        "geo_level": "ND",
+        "id": "LT313",
+        "percent25": 56.8,
+        "percent50": 70.81,
+        "percent75": 116.8
+    },
+    {
+        "geo_level": "ND",
+        "id": "LT315",
+        "percent25": 34.4,
+        "percent50": 41.71,
+        "percent75": 68.8
+    },
+    {
+        "geo_level": "ND",
+        "id": "LT403",
+        "percent25": 127.2,
+        "percent50": 166.84,
+        "percent75": 299.2
+    },
+    {
+        "geo_level": "ND",
+        "id": "OV116",
+        "percent25": 101.6,
+        "percent50": 132.89,
+        "percent75": 241.6
+    },
+    {
+        "geo_level": "ND",
+        "id": "OV307",
+        "percent25": 63.2,
+        "percent50": 82.45,
+        "percent75": 150.4
+    },
+    {
+        "geo_level": "NE",
+        "id": "ES001",
+        "percent25": 610.4,
+        "percent50": 880.76,
+        "percent75": 1686.4
+    },
+    {
+        "geo_level": "NE",
+        "id": "IM104",
+        "percent25": 600.8,
+        "percent50": 1384.19,
+        "percent75": 2352
+    },
+    {
+        "geo_level": "NE",
+        "id": "IM211",
+        "percent25": 1367.2,
+        "percent50": 2757.71,
+        "percent75": 6552
+    },
+    {
+        "geo_level": "NE",
+        "id": "IM403",
+        "percent25": 188.8,
+        "percent50": 237.65,
+        "percent75": 403.2
+    },
+    {
+        "geo_level": "NE",
+        "id": "IM407",
+        "percent25": 163.2,
+        "percent50": 205.64,
+        "percent75": 350.4
+    },
+    {
+        "geo_level": "NE",
+        "id": "IM601",
+        "percent25": 41.6,
+        "percent50": 51.41,
+        "percent75": 89.6
+    },
+    {
+        "geo_level": "NE",
+        "id": "IM606",
+        "percent25": 48.8,
+        "percent50": 62.08,
+        "percent75": 105.6
+    },
+    {
+        "geo_level": "NE",
+        "id": "IM616",
+        "percent25": 38.4,
+        "percent50": 48.5,
+        "percent75": 83.2
+    },
+    {
+        "geo_level": "NE",
+        "id": "IM627",
+        "percent25": 55.2,
+        "percent50": 70.81,
+        "percent75": 118.4
+    },
+    {
+        "geo_level": "NE",
+        "id": "LT105",
+        "percent25": 11.2,
+        "percent50": 13.58,
+        "percent75": 24
+    },
+    {
+        "geo_level": "NE",
+        "id": "LT106",
+        "percent25": 11.2,
+        "percent50": 14.55,
+        "percent75": 24
+    },
+    {
+        "geo_level": "NE",
+        "id": "LT211",
+        "percent25": 3.2,
+        "percent50": 3.88,
+        "percent75": 6.4
+    },
+    {
+        "geo_level": "NE",
+        "id": "LT213",
+        "percent25": 4.8,
+        "percent50": 5.82,
+        "percent75": 11.2
+    },
+    {
+        "geo_level": "NE",
+        "id": "LT219",
+        "percent25": 11.2,
+        "percent50": 14.55,
+        "percent75": 25.6
+    },
+    {
+        "geo_level": "NE",
+        "id": "LT313",
+        "percent25": 30.4,
+        "percent50": 37.83,
+        "percent75": 65.6
+    },
+    {
+        "geo_level": "NE",
+        "id": "LT315",
+        "percent25": 17.6,
+        "percent50": 23.28,
+        "percent75": 38.4
+    },
+    {
+        "geo_level": "NE",
+        "id": "LT403",
+        "percent25": 94.4,
+        "percent50": 137.74,
+        "percent75": 260.8
+    },
+    {
+        "geo_level": "NE",
+        "id": "OV116",
+        "percent25": 75.2,
+        "percent50": 110.58,
+        "percent75": 208
+    },
+    {
+        "geo_level": "NE",
+        "id": "OV307",
+        "percent25": 44.8,
+        "percent50": 66.93,
+        "percent75": 124.8
+    },
+    {
+        "geo_level": "NE",
+        "id": "OV411",
+        "percent25": 218.4,
+        "percent50": 314.28,
+        "percent75": 600
+    },
+    {
+        "geo_level": "NE",
+        "id": "OV412",
+        "percent25": 218.4,
+        "percent50": 314.28,
+        "percent75": 600
+    },
+    {
+        "geo_level": "NE",
+        "id": "OV521",
+        "percent25": 561.6,
+        "percent50": 737.2,
+        "percent75": 1294.4
+    },
+    {
+        "geo_level": "NE",
+        "id": "PX207",
+        "percent25": 9302.4,
+        "percent50": 15350.25,
+        "percent75": 32193.6
+    },
+    {
+        "geo_level": "NH",
+        "id": "IM403",
+        "percent25": 158.4,
+        "percent50": 194.97,
+        "percent75": 534.4
+    },
+    {
+        "geo_level": "NH",
+        "id": "IM407",
+        "percent25": 138.4,
+        "percent50": 216.31,
+        "percent75": 464
+    },
+    {
+        "geo_level": "NH",
+        "id": "IM601",
+        "percent25": 30.4,
+        "percent50": 42.68,
+        "percent75": 97.6
+    },
+    {
+        "geo_level": "NH",
+        "id": "IM606",
+        "percent25": 40.8,
+        "percent50": 54.32,
+        "percent75": 123.2
+    },
+    {
+        "geo_level": "NH",
+        "id": "IM627",
+        "percent25": 44.8,
+        "percent50": 80.51,
+        "percent75": 153.6
+    },
+    {
+        "geo_level": "NH",
+        "id": "LT105",
+        "percent25": 7.2,
+        "percent50": 8.73,
+        "percent75": 17.6
+    },
+    {
+        "geo_level": "NH",
+        "id": "LT106",
+        "percent25": 7.2,
+        "percent50": 9.7,
+        "percent75": 16
+    },
+    {
+        "geo_level": "NH",
+        "id": "LT211",
+        "percent25": 2.4,
+        "percent50": 2.91,
+        "percent75": 6.4
+    },
+    {
+        "geo_level": "NH",
+        "id": "LT213",
+        "percent25": 3.2,
+        "percent50": 4.85,
+        "percent75": 8
+    },
+    {
+        "geo_level": "NH",
+        "id": "LT313",
+        "percent25": 20,
+        "percent50": 24.25,
+        "percent75": 40
+    },
+    {
+        "geo_level": "NH",
+        "id": "LT315",
+        "percent25": 12,
+        "percent50": 14.55,
+        "percent75": 24
+    },
+    {
+        "geo_level": "NH",
+        "id": "LT403",
+        "percent25": 90.4,
+        "percent50": 133.86,
+        "percent75": 228.8
+    },
+    {
+        "geo_level": "NH",
+        "id": "OV116",
+        "percent25": 69.6,
+        "percent50": 99.91,
+        "percent75": 166.4
+    },
+    {
+        "geo_level": "NH",
+        "id": "OV307",
+        "percent25": 36,
+        "percent50": 59.17,
+        "percent75": 99.2
+    },
+    {
+        "geo_level": "NH",
+        "id": "OV411",
+        "percent25": 186.4,
+        "percent50": 235.71,
+        "percent75": 566.4
+    },
+    {
+        "geo_level": "NH",
+        "id": "OV412",
+        "percent25": 186.4,
+        "percent50": 235.71,
+        "percent75": 566.4
+    },
+    {
+        "geo_level": "NH",
+        "id": "OV521",
+        "percent25": 493.6,
+        "percent50": 666.39,
+        "percent75": 1184
+    },
+    {
+        "geo_level": "NJ",
+        "id": "ES001",
+        "percent25": 892,
+        "percent50": 1411.35,
+        "percent75": 3115.2
+    },
+    {
+        "geo_level": "NJ",
+        "id": "IM104",
+        "percent25": 244.8,
+        "percent50": 462.69,
+        "percent75": 2230.4
+    },
+    {
+        "geo_level": "NJ",
+        "id": "IM211",
+        "percent25": 916,
+        "percent50": 1476.34,
+        "percent75": 5553.6
+    },
+    {
+        "geo_level": "NJ",
+        "id": "IM403",
+        "percent25": 100,
+        "percent50": 143.56,
+        "percent75": 326.4
+    },
+    {
+        "geo_level": "NJ",
+        "id": "IM407",
+        "percent25": 85.6,
+        "percent50": 104.76,
+        "percent75": 243.2
+    },
+    {
+        "geo_level": "NJ",
+        "id": "IM601",
+        "percent25": 20.8,
+        "percent50": 31.04,
+        "percent75": 67.2
+    },
+    {
+        "geo_level": "NJ",
+        "id": "IM606",
+        "percent25": 31.2,
+        "percent50": 39.77,
+        "percent75": 83.2
+    },
+    {
+        "geo_level": "NJ",
+        "id": "IM616",
+        "percent25": 23.2,
+        "percent50": 33.95,
+        "percent75": 70.4
+    },
+    {
+        "geo_level": "NJ",
+        "id": "IM627",
+        "percent25": 36,
+        "percent50": 49.47,
+        "percent75": 105.6
+    },
+    {
+        "geo_level": "NJ",
+        "id": "LT105",
+        "percent25": 4.8,
+        "percent50": 7.76,
+        "percent75": 17.6
+    },
+    {
+        "geo_level": "NJ",
+        "id": "LT106",
+        "percent25": 4.8,
+        "percent50": 7.76,
+        "percent75": 17.6
+    },
+    {
+        "geo_level": "NJ",
+        "id": "LT211",
+        "percent25": 1.6,
+        "percent50": 1.94,
+        "percent75": 4.8
+    },
+    {
+        "geo_level": "NJ",
+        "id": "LT213",
+        "percent25": 2.4,
+        "percent50": 3.88,
+        "percent75": 6.4
+    },
+    {
+        "geo_level": "NJ",
+        "id": "LT219",
+        "percent25": 4.8,
+        "percent50": 7.76,
+        "percent75": 12.8
+    },
+    {
+        "geo_level": "NJ",
+        "id": "LT313",
+        "percent25": 12.8,
+        "percent50": 20.37,
+        "percent75": 48
+    },
+    {
+        "geo_level": "NJ",
+        "id": "LT315",
+        "percent25": 8,
+        "percent50": 11.64,
+        "percent75": 27.2
+    },
+    {
+        "geo_level": "NJ",
+        "id": "LT403",
+        "percent25": 57.6,
+        "percent50": 89.24,
+        "percent75": 180.8
+    },
+    {
+        "geo_level": "NJ",
+        "id": "LT503",
+        "percent25": 9.6,
+        "percent50": 12.61,
+        "percent75": 44.8
+    },
+    {
+        "geo_level": "NJ",
+        "id": "OV116",
+        "percent25": 43.2,
+        "percent50": 66.93,
+        "percent75": 144
+    },
+    {
+        "geo_level": "NJ",
+        "id": "OV307",
+        "percent25": 26.4,
+        "percent50": 47.53,
+        "percent75": 86.4
+    },
+    {
+        "geo_level": "NJ",
+        "id": "OV411",
+        "percent25": 134.4,
+        "percent50": 164.9,
+        "percent75": 412.8
+    },
+    {
+        "geo_level": "NJ",
+        "id": "OV412",
+        "percent25": 134.4,
+        "percent50": 164.9,
+        "percent75": 412.8
+    },
+    {
+        "geo_level": "NJ",
+        "id": "OV521",
+        "percent25": 416,
+        "percent50": 557.75,
+        "percent75": 1033.6
+    },
+    {
+        "geo_level": "NJ",
+        "id": "PX207",
+        "percent25": 5491.2,
+        "percent50": 10052.11,
+        "percent75": 21216
+    },
+    {
+        "geo_level": "NM",
+        "id": "IM403",
+        "percent25": 132.8,
+        "percent50": 166.84,
+        "percent75": 347.2
+    },
+    {
+        "geo_level": "NM",
+        "id": "IM407",
+        "percent25": 124,
+        "percent50": 151.32,
+        "percent75": 310.4
+    },
+    {
+        "geo_level": "NM",
+        "id": "IM601",
+        "percent25": 24.8,
+        "percent50": 32.01,
+        "percent75": 86.4
+    },
+    {
+        "geo_level": "NM",
+        "id": "IM606",
+        "percent25": 30.4,
+        "percent50": 44.62,
+        "percent75": 99.2
+    },
+    {
+        "geo_level": "NM",
+        "id": "IM627",
+        "percent25": 36.8,
+        "percent50": 54.32,
+        "percent75": 105.6
+    },
+    {
+        "geo_level": "NM",
+        "id": "LT105",
+        "percent25": 6.4,
+        "percent50": 15.52,
+        "percent75": 38.4
+    },
+    {
+        "geo_level": "NM",
+        "id": "LT106",
+        "percent25": 6.4,
+        "percent50": 8.73,
+        "percent75": 27.2
+    },
+    {
+        "geo_level": "NM",
+        "id": "LT211",
+        "percent25": 1.6,
+        "percent50": 1.94,
+        "percent75": 3.2
+    },
+    {
+        "geo_level": "NM",
+        "id": "LT313",
+        "percent25": 12.8,
+        "percent50": 19.4,
+        "percent75": 56
+    },
+    {
+        "geo_level": "NM",
+        "id": "LT315",
+        "percent25": 9.6,
+        "percent50": 12.61,
+        "percent75": 22.4
+    },
+    {
+        "geo_level": "NM",
+        "id": "LT403",
+        "percent25": 70.4,
+        "percent50": 92.15,
+        "percent75": 192
+    },
+    {
+        "geo_level": "NM",
+        "id": "OV116",
+        "percent25": 57.6,
+        "percent50": 75.66,
+        "percent75": 156.8
+    },
+    {
+        "geo_level": "NM",
+        "id": "OV307",
+        "percent25": 34.4,
+        "percent50": 43.65,
+        "percent75": 88
+    },
+    {
+        "geo_level": "NM",
+        "id": "OV411",
+        "percent25": 149.6,
+        "percent50": 211.46,
+        "percent75": 424
+    },
+    {
+        "geo_level": "NM",
+        "id": "OV412",
+        "percent25": 149.6,
+        "percent50": 211.46,
+        "percent75": 424
+    },
+    {
+        "geo_level": "NM",
+        "id": "OV521",
+        "percent25": 429.6,
+        "percent50": 612.07,
+        "percent75": 1134.4
+    },
+    {
+        "geo_level": "NV",
+        "id": "ES001",
+        "percent25": 955.2,
+        "percent50": 1396.8,
+        "percent75": 3174.4
+    },
+    {
+        "geo_level": "NV",
+        "id": "IM104",
+        "percent25": 772,
+        "percent50": 1104.83,
+        "percent75": 2718.4
+    },
+    {
+        "geo_level": "NV",
+        "id": "IM403",
+        "percent25": 104.8,
+        "percent50": 136.77,
+        "percent75": 288
+    },
+    {
+        "geo_level": "NV",
+        "id": "IM407",
+        "percent25": 95.2,
+        "percent50": 118.34,
+        "percent75": 228.8
+    },
+    {
+        "geo_level": "NV",
+        "id": "IM601",
+        "percent25": 22.4,
+        "percent50": 29.1,
+        "percent75": 57.6
+    },
+    {
+        "geo_level": "NV",
+        "id": "IM606",
+        "percent25": 30.4,
+        "percent50": 38.8,
+        "percent75": 76.8
+    },
+    {
+        "geo_level": "NV",
+        "id": "IM616",
+        "percent25": 22.4,
+        "percent50": 29.1,
+        "percent75": 57.6
+    },
+    {
+        "geo_level": "NV",
+        "id": "IM627",
+        "percent25": 34.4,
+        "percent50": 43.65,
+        "percent75": 86.4
+    },
+    {
+        "geo_level": "NV",
+        "id": "LT105",
+        "percent25": 4.8,
+        "percent50": 6.79,
+        "percent75": 11.2
+    },
+    {
+        "geo_level": "NV",
+        "id": "LT106",
+        "percent25": 4.8,
+        "percent50": 7.76,
+        "percent75": 12.8
+    },
+    {
+        "geo_level": "NV",
+        "id": "LT211",
+        "percent25": 1.6,
+        "percent50": 1.94,
+        "percent75": 3.2
+    },
+    {
+        "geo_level": "NV",
+        "id": "LT313",
+        "percent25": 15.2,
+        "percent50": 19.4,
+        "percent75": 52.8
+    },
+    {
+        "geo_level": "NV",
+        "id": "LT315",
+        "percent25": 8.8,
+        "percent50": 11.64,
+        "percent75": 32
+    },
+    {
+        "geo_level": "NV",
+        "id": "LT403",
+        "percent25": 66.4,
+        "percent50": 84.39,
+        "percent75": 158.4
+    },
+    {
+        "geo_level": "NV",
+        "id": "OV116",
+        "percent25": 52.8,
+        "percent50": 66.93,
+        "percent75": 128
+    },
+    {
+        "geo_level": "NV",
+        "id": "OV307",
+        "percent25": 32,
+        "percent50": 40.74,
+        "percent75": 80
+    },
+    {
+        "geo_level": "NV",
+        "id": "OV411",
+        "percent25": 126.4,
+        "percent50": 153.26,
+        "percent75": 369.6
+    },
+    {
+        "geo_level": "NV",
+        "id": "OV412",
+        "percent25": 126.4,
+        "percent50": 153.26,
+        "percent75": 369.6
+    },
+    {
+        "geo_level": "NV",
+        "id": "OV521",
+        "percent25": 396.8,
+        "percent50": 513.13,
+        "percent75": 1001.6
+    },
+    {
+        "geo_level": "NY",
+        "id": "ES001",
+        "percent25": 667.2,
+        "percent50": 1236.75,
+        "percent75": 3203.2
+    },
+    {
+        "geo_level": "NY",
+        "id": "IM104",
+        "percent25": 186.4,
+        "percent50": 410.31,
+        "percent75": 1368
+    },
+    {
+        "geo_level": "NY",
+        "id": "IM211",
+        "percent25": 824.8,
+        "percent50": 1432.69,
+        "percent75": 4678.4
+    },
+    {
+        "geo_level": "NY",
+        "id": "IM403",
+        "percent25": 121.6,
+        "percent50": 172.66,
+        "percent75": 340.8
+    },
+    {
+        "geo_level": "NY",
+        "id": "IM407",
+        "percent25": 105.6,
+        "percent50": 148.41,
+        "percent75": 304
+    },
+    {
+        "geo_level": "NY",
+        "id": "IM601",
+        "percent25": 24.8,
+        "percent50": 38.8,
+        "percent75": 73.6
+    },
+    {
+        "geo_level": "NY",
+        "id": "IM606",
+        "percent25": 30.4,
+        "percent50": 44.62,
+        "percent75": 88
+    },
+    {
+        "geo_level": "NY",
+        "id": "IM616",
+        "percent25": 23.2,
+        "percent50": 35.89,
+        "percent75": 68.8
+    },
+    {
+        "geo_level": "NY",
+        "id": "IM627",
+        "percent25": 34.4,
+        "percent50": 50.44,
+        "percent75": 99.2
+    },
+    {
+        "geo_level": "NY",
+        "id": "LT105",
+        "percent25": 5.6,
+        "percent50": 8.73,
+        "percent75": 17.6
+    },
+    {
+        "geo_level": "NY",
+        "id": "LT106",
+        "percent25": 6.4,
+        "percent50": 9.7,
+        "percent75": 19.2
+    },
+    {
+        "geo_level": "NY",
+        "id": "LT211",
+        "percent25": 1.6,
+        "percent50": 1.94,
+        "percent75": 4.8
+    },
+    {
+        "geo_level": "NY",
+        "id": "LT213",
+        "percent25": 2.4,
+        "percent50": 3.88,
+        "percent75": 8
+    },
+    {
+        "geo_level": "NY",
+        "id": "LT219",
+        "percent25": 6.4,
+        "percent50": 8.73,
+        "percent75": 16
+    },
+    {
+        "geo_level": "NY",
+        "id": "LT313",
+        "percent25": 18.4,
+        "percent50": 39.77,
+        "percent75": 65.6
+    },
+    {
+        "geo_level": "NY",
+        "id": "LT315",
+        "percent25": 10.4,
+        "percent50": 18.43,
+        "percent75": 40
+    },
+    {
+        "geo_level": "NY",
+        "id": "LT403",
+        "percent25": 62.4,
+        "percent50": 96.03,
+        "percent75": 198.4
+    },
+    {
+        "geo_level": "NY",
+        "id": "OV116",
+        "percent25": 50.4,
+        "percent50": 76.63,
+        "percent75": 156.8
+    },
+    {
+        "geo_level": "NY",
+        "id": "OV307",
+        "percent25": 26.4,
+        "percent50": 44.62,
+        "percent75": 92.8
+    },
+    {
+        "geo_level": "NY",
+        "id": "OV411",
+        "percent25": 110.4,
+        "percent50": 265.78,
+        "percent75": 537.6
+    },
+    {
+        "geo_level": "NY",
+        "id": "OV412",
+        "percent25": 110.4,
+        "percent50": 265.78,
+        "percent75": 537.6
+    },
+    {
+        "geo_level": "NY",
+        "id": "OV521",
+        "percent25": 414.4,
+        "percent50": 575.21,
+        "percent75": 1043.2
+    },
+    {
+        "geo_level": "NY",
+        "id": "PX207",
+        "percent25": 6037.6,
+        "percent50": 10141.35,
+        "percent75": 24083.2
+    },
+    {
+        "geo_level": "OH",
+        "id": "ES001",
+        "percent25": 652,
+        "percent50": 1124.23,
+        "percent75": 2580.8
+    },
+    {
+        "geo_level": "OH",
+        "id": "IM104",
+        "percent25": 410.4,
+        "percent50": 781.82,
+        "percent75": 1787.2
+    },
+    {
+        "geo_level": "OH",
+        "id": "IM211",
+        "percent25": 966.4,
+        "percent50": 1687.8,
+        "percent75": 3392
+    },
+    {
+        "geo_level": "OH",
+        "id": "IM403",
+        "percent25": 106.4,
+        "percent50": 153.26,
+        "percent75": 313.6
+    },
+    {
+        "geo_level": "OH",
+        "id": "IM407",
+        "percent25": 96.8,
+        "percent50": 139.68,
+        "percent75": 260.8
+    },
+    {
+        "geo_level": "OH",
+        "id": "IM601",
+        "percent25": 23.2,
+        "percent50": 29.1,
+        "percent75": 65.6
+    },
+    {
+        "geo_level": "OH",
+        "id": "IM606",
+        "percent25": 24.8,
+        "percent50": 35.89,
+        "percent75": 72
+    },
+    {
+        "geo_level": "OH",
+        "id": "IM616",
+        "percent25": 20,
+        "percent50": 29.1,
+        "percent75": 59.2
+    },
+    {
+        "geo_level": "OH",
+        "id": "IM627",
+        "percent25": 28,
+        "percent50": 43.65,
+        "percent75": 86.4
+    },
+    {
+        "geo_level": "OH",
+        "id": "LT105",
+        "percent25": 3.2,
+        "percent50": 3.88,
+        "percent75": 12.8
+    },
+    {
+        "geo_level": "OH",
+        "id": "LT106",
+        "percent25": 4,
+        "percent50": 4.85,
+        "percent75": 14.4
+    },
+    {
+        "geo_level": "OH",
+        "id": "LT211",
+        "percent25": 1.6,
+        "percent50": 2.91,
+        "percent75": 4.8
+    },
+    {
+        "geo_level": "OH",
+        "id": "LT213",
+        "percent25": 1.6,
+        "percent50": 1.94,
+        "percent75": 4.8
+    },
+    {
+        "geo_level": "OH",
+        "id": "LT219",
+        "percent25": 3.2,
+        "percent50": 3.88,
+        "percent75": 11.2
+    },
+    {
+        "geo_level": "OH",
+        "id": "LT313",
+        "percent25": 9.6,
+        "percent50": 11.64,
+        "percent75": 32
+    },
+    {
+        "geo_level": "OH",
+        "id": "LT315",
+        "percent25": 4.8,
+        "percent50": 5.82,
+        "percent75": 19.2
+    },
+    {
+        "geo_level": "OH",
+        "id": "LT403",
+        "percent25": 65.6,
+        "percent50": 87.3,
+        "percent75": 160
+    },
+    {
+        "geo_level": "OH",
+        "id": "LT503",
+        "percent25": 5.6,
+        "percent50": 7.76,
+        "percent75": 28.8
+    },
+    {
+        "geo_level": "OH",
+        "id": "OV116",
+        "percent25": 50.4,
+        "percent50": 64.99,
+        "percent75": 120
+    },
+    {
+        "geo_level": "OH",
+        "id": "OV307",
+        "percent25": 30.4,
+        "percent50": 38.8,
+        "percent75": 68.8
+    },
+    {
+        "geo_level": "OH",
+        "id": "OV411",
+        "percent25": 121.6,
+        "percent50": 187.21,
+        "percent75": 398.4
+    },
+    {
+        "geo_level": "OH",
+        "id": "OV412",
+        "percent25": 121.6,
+        "percent50": 187.21,
+        "percent75": 398.4
+    },
+    {
+        "geo_level": "OH",
+        "id": "OV521",
+        "percent25": 379.2,
+        "percent50": 506.34,
+        "percent75": 1004.8
+    },
+    {
+        "geo_level": "OH",
+        "id": "PX207",
+        "percent25": 4893.6,
+        "percent50": 9828.04,
+        "percent75": 26409.6
+    },
+    {
+        "geo_level": "OK",
+        "id": "ES001",
+        "percent25": 593.6,
+        "percent50": 869.12,
+        "percent75": 1801.6
+    },
+    {
+        "geo_level": "OK",
+        "id": "IM104",
+        "percent25": 202.4,
+        "percent50": 292.94,
+        "percent75": 699.2
+    },
+    {
+        "geo_level": "OK",
+        "id": "IM403",
+        "percent25": 128,
+        "percent50": 158.11,
+        "percent75": 273.6
+    },
+    {
+        "geo_level": "OK",
+        "id": "IM407",
+        "percent25": 111.2,
+        "percent50": 136.77,
+        "percent75": 248
+    },
+    {
+        "geo_level": "OK",
+        "id": "IM601",
+        "percent25": 21.6,
+        "percent50": 30.07,
+        "percent75": 56
+    },
+    {
+        "geo_level": "OK",
+        "id": "IM606",
+        "percent25": 24.8,
+        "percent50": 36.86,
+        "percent75": 64
+    },
+    {
+        "geo_level": "OK",
+        "id": "IM616",
+        "percent25": 20,
+        "percent50": 28.13,
+        "percent75": 48
+    },
+    {
+        "geo_level": "OK",
+        "id": "IM627",
+        "percent25": 30.4,
+        "percent50": 43.65,
+        "percent75": 75.2
+    },
+    {
+        "geo_level": "OK",
+        "id": "LT105",
+        "percent25": 7.2,
+        "percent50": 8.73,
+        "percent75": 14.4
+    },
+    {
+        "geo_level": "OK",
+        "id": "LT106",
+        "percent25": 7.2,
+        "percent50": 8.73,
+        "percent75": 14.4
+    },
+    {
+        "geo_level": "OK",
+        "id": "LT211",
+        "percent25": 1.6,
+        "percent50": 1.94,
+        "percent75": 3.2
+    },
+    {
+        "geo_level": "OK",
+        "id": "LT213",
+        "percent25": 3.2,
+        "percent50": 3.88,
+        "percent75": 6.4
+    },
+    {
+        "geo_level": "OK",
+        "id": "LT219",
+        "percent25": 6.4,
+        "percent50": 8.73,
+        "percent75": 16
+    },
+    {
+        "geo_level": "OK",
+        "id": "LT313",
+        "percent25": 20,
+        "percent50": 24.25,
+        "percent75": 41.6
+    },
+    {
+        "geo_level": "OK",
+        "id": "LT315",
+        "percent25": 12,
+        "percent50": 14.55,
+        "percent75": 24
+    },
+    {
+        "geo_level": "OK",
+        "id": "LT403",
+        "percent25": 66.4,
+        "percent50": 92.15,
+        "percent75": 156.8
+    },
+    {
+        "geo_level": "OK",
+        "id": "LT503",
+        "percent25": 12,
+        "percent50": 14.55,
+        "percent75": 35.2
+    },
+    {
+        "geo_level": "OK",
+        "id": "OV116",
+        "percent25": 53.6,
+        "percent50": 73.72,
+        "percent75": 124.8
+    },
+    {
+        "geo_level": "OK",
+        "id": "OV307",
+        "percent25": 32,
+        "percent50": 43.65,
+        "percent75": 73.6
+    },
+    {
+        "geo_level": "OK",
+        "id": "OV411",
+        "percent25": 132.8,
+        "percent50": 186.24,
+        "percent75": 390.4
+    },
+    {
+        "geo_level": "OK",
+        "id": "OV412",
+        "percent25": 132.8,
+        "percent50": 186.24,
+        "percent75": 390.4
+    },
+    {
+        "geo_level": "OK",
+        "id": "OV521",
+        "percent25": 440.8,
+        "percent50": 610.13,
+        "percent75": 1051.2
+    },
+    {
+        "geo_level": "OK",
+        "id": "PX207",
+        "percent25": 7731.2,
+        "percent50": 11575.98,
+        "percent75": 23508.8
+    },
+    {
+        "geo_level": "OR",
+        "id": "IM104",
+        "percent25": 353.6,
+        "percent50": 518.95,
+        "percent75": 1153.6
+    },
+    {
+        "geo_level": "OR",
+        "id": "IM211",
+        "percent25": 1188,
+        "percent50": 1741.15,
+        "percent75": 3350.4
+    },
+    {
+        "geo_level": "OR",
+        "id": "IM403",
+        "percent25": 203.2,
+        "percent50": 308.46,
+        "percent75": 582.4
+    },
+    {
+        "geo_level": "OR",
+        "id": "IM407",
+        "percent25": 210.4,
+        "percent50": 300.7,
+        "percent75": 564.8
+    },
+    {
+        "geo_level": "OR",
+        "id": "IM601",
+        "percent25": 44,
+        "percent50": 65.96,
+        "percent75": 126.4
+    },
+    {
+        "geo_level": "OR",
+        "id": "IM606",
+        "percent25": 50.4,
+        "percent50": 64.02,
+        "percent75": 128
+    },
+    {
+        "geo_level": "OR",
+        "id": "IM627",
+        "percent25": 57.6,
+        "percent50": 82.45,
+        "percent75": 160
+    },
+    {
+        "geo_level": "OR",
+        "id": "LT105",
+        "percent25": 8.8,
+        "percent50": 11.64,
+        "percent75": 20.8
+    },
+    {
+        "geo_level": "OR",
+        "id": "LT106",
+        "percent25": 7.2,
+        "percent50": 11.64,
+        "percent75": 22.4
+    },
+    {
+        "geo_level": "OR",
+        "id": "LT211",
+        "percent25": 1.6,
+        "percent50": 1.94,
+        "percent75": 4.8
+    },
+    {
+        "geo_level": "OR",
+        "id": "LT213",
+        "percent25": 3.2,
+        "percent50": 4.85,
+        "percent75": 8
+    },
+    {
+        "geo_level": "OR",
+        "id": "LT219",
+        "percent25": 7.2,
+        "percent50": 10.67,
+        "percent75": 20.8
+    },
+    {
+        "geo_level": "OR",
+        "id": "LT313",
+        "percent25": 24.8,
+        "percent50": 32.01,
+        "percent75": 62.4
+    },
+    {
+        "geo_level": "OR",
+        "id": "LT315",
+        "percent25": 14.4,
+        "percent50": 19.4,
+        "percent75": 33.6
+    },
+    {
+        "geo_level": "OR",
+        "id": "LT403",
+        "percent25": 133.6,
+        "percent50": 167.81,
+        "percent75": 329.6
+    },
+    {
+        "geo_level": "OR",
+        "id": "OV116",
+        "percent25": 108,
+        "percent50": 132.89,
+        "percent75": 265.6
+    },
+    {
+        "geo_level": "OR",
+        "id": "OV307",
+        "percent25": 51.2,
+        "percent50": 79.54,
+        "percent75": 153.6
+    },
+    {
+        "geo_level": "OR",
+        "id": "OV411",
+        "percent25": 189.6,
+        "percent50": 338.53,
+        "percent75": 692.8
+    },
+    {
+        "geo_level": "OR",
+        "id": "OV412",
+        "percent25": 189.6,
+        "percent50": 338.53,
+        "percent75": 692.8
+    },
+    {
+        "geo_level": "OR",
+        "id": "OV521",
+        "percent25": 596.8,
+        "percent50": 801.22,
+        "percent75": 1470.4
+    },
+    {
+        "geo_level": "PA",
+        "id": "ES001",
+        "percent25": 575.2,
+        "percent50": 936.05,
+        "percent75": 2200
+    },
+    {
+        "geo_level": "PA",
+        "id": "IM104",
+        "percent25": 234.4,
+        "percent50": 535.44,
+        "percent75": 1356.8
+    },
+    {
+        "geo_level": "PA",
+        "id": "IM211",
+        "percent25": 861.6,
+        "percent50": 1709.14,
+        "percent75": 4360
+    },
+    {
+        "geo_level": "PA",
+        "id": "IM403",
+        "percent25": 124,
+        "percent50": 193.03,
+        "percent75": 384
+    },
+    {
+        "geo_level": "PA",
+        "id": "IM407",
+        "percent25": 105.6,
+        "percent50": 183.33,
+        "percent75": 352
+    },
+    {
+        "geo_level": "PA",
+        "id": "IM601",
+        "percent25": 25.6,
+        "percent50": 32.98,
+        "percent75": 62.4
+    },
+    {
+        "geo_level": "PA",
+        "id": "IM606",
+        "percent25": 31.2,
+        "percent50": 43.65,
+        "percent75": 86.4
+    },
+    {
+        "geo_level": "PA",
+        "id": "IM616",
+        "percent25": 24,
+        "percent50": 33.95,
+        "percent75": 73.6
+    },
+    {
+        "geo_level": "PA",
+        "id": "IM627",
+        "percent25": 36,
+        "percent50": 48.5,
+        "percent75": 97.6
+    },
+    {
+        "geo_level": "PA",
+        "id": "LT105",
+        "percent25": 5.6,
+        "percent50": 8.73,
+        "percent75": 16
+    },
+    {
+        "geo_level": "PA",
+        "id": "LT106",
+        "percent25": 5.6,
+        "percent50": 8.73,
+        "percent75": 16
+    },
+    {
+        "geo_level": "PA",
+        "id": "LT211",
+        "percent25": 1.6,
+        "percent50": 2.91,
+        "percent75": 4.8
+    },
+    {
+        "geo_level": "PA",
+        "id": "LT213",
+        "percent25": 2.4,
+        "percent50": 3.88,
+        "percent75": 6.4
+    },
+    {
+        "geo_level": "PA",
+        "id": "LT219",
+        "percent25": 5.6,
+        "percent50": 8.73,
+        "percent75": 14.4
+    },
+    {
+        "geo_level": "PA",
+        "id": "LT313",
+        "percent25": 14.4,
+        "percent50": 22.31,
+        "percent75": 40
+    },
+    {
+        "geo_level": "PA",
+        "id": "LT315",
+        "percent25": 8.8,
+        "percent50": 13.58,
+        "percent75": 24
+    },
+    {
+        "geo_level": "PA",
+        "id": "LT403",
+        "percent25": 68.8,
+        "percent50": 97,
+        "percent75": 211.2
+    },
+    {
+        "geo_level": "PA",
+        "id": "OV116",
+        "percent25": 53.6,
+        "percent50": 75.66,
+        "percent75": 164.8
+    },
+    {
+        "geo_level": "PA",
+        "id": "OV307",
+        "percent25": 30.4,
+        "percent50": 44.62,
+        "percent75": 88
+    },
+    {
+        "geo_level": "PA",
+        "id": "OV411",
+        "percent25": 146.4,
+        "percent50": 217.28,
+        "percent75": 500.8
+    },
+    {
+        "geo_level": "PA",
+        "id": "OV412",
+        "percent25": 146.4,
+        "percent50": 217.28,
+        "percent75": 500.8
+    },
+    {
+        "geo_level": "PA",
+        "id": "OV521",
+        "percent25": 427.2,
+        "percent50": 576.18,
+        "percent75": 1096
+    },
+    {
+        "geo_level": "PA",
+        "id": "PX207",
+        "percent25": 5386.4,
+        "percent50": 9537.04,
+        "percent75": 22166.4
+    },
+    {
+        "geo_level": "RI",
+        "id": "ES001",
+        "percent25": 524,
+        "percent50": 860.39,
+        "percent75": 2289.6
+    },
+    {
+        "geo_level": "RI",
+        "id": "IM403",
+        "percent25": 135.2,
+        "percent50": 165.87,
+        "percent75": 289.6
+    },
+    {
+        "geo_level": "RI",
+        "id": "IM407",
+        "percent25": 116.8,
+        "percent50": 150.35,
+        "percent75": 270.4
+    },
+    {
+        "geo_level": "RI",
+        "id": "IM601",
+        "percent25": 30.4,
+        "percent50": 36.86,
+        "percent75": 118.4
+    },
+    {
+        "geo_level": "RI",
+        "id": "IM606",
+        "percent25": 36,
+        "percent50": 43.65,
+        "percent75": 73.6
+    },
+    {
+        "geo_level": "RI",
+        "id": "IM616",
+        "percent25": 28,
+        "percent50": 33.95,
+        "percent75": 56
+    },
+    {
+        "geo_level": "RI",
+        "id": "IM627",
+        "percent25": 40,
+        "percent50": 48.5,
+        "percent75": 83.2
+    },
+    {
+        "geo_level": "RI",
+        "id": "LT105",
+        "percent25": 5.6,
+        "percent50": 6.79,
+        "percent75": 11.2
+    },
+    {
+        "geo_level": "RI",
+        "id": "LT106",
+        "percent25": 6.4,
+        "percent50": 7.76,
+        "percent75": 12.8
+    },
+    {
+        "geo_level": "RI",
+        "id": "LT211",
+        "percent25": 1.6,
+        "percent50": 1.94,
+        "percent75": 3.2
+    },
+    {
+        "geo_level": "RI",
+        "id": "LT313",
+        "percent25": 15.2,
+        "percent50": 19.4,
+        "percent75": 35.2
+    },
+    {
+        "geo_level": "RI",
+        "id": "LT315",
+        "percent25": 8,
+        "percent50": 11.64,
+        "percent75": 22.4
+    },
+    {
+        "geo_level": "RI",
+        "id": "LT403",
+        "percent25": 74.4,
+        "percent50": 97.97,
+        "percent75": 174.4
+    },
+    {
+        "geo_level": "RI",
+        "id": "OV116",
+        "percent25": 60,
+        "percent50": 80.51,
+        "percent75": 145.6
+    },
+    {
+        "geo_level": "RI",
+        "id": "OV307",
+        "percent25": 36.8,
+        "percent50": 48.5,
+        "percent75": 86.4
+    },
+    {
+        "geo_level": "SC",
+        "id": "ES001",
+        "percent25": 631.2,
+        "percent50": 945.75,
+        "percent75": 1803.2
+    },
+    {
+        "geo_level": "SC",
+        "id": "IM104",
+        "percent25": 383.2,
+        "percent50": 707.13,
+        "percent75": 1590.4
+    },
+    {
+        "geo_level": "SC",
+        "id": "IM211",
+        "percent25": 1016,
+        "percent50": 1792.56,
+        "percent75": 3497.6
+    },
+    {
+        "geo_level": "SC",
+        "id": "IM403",
+        "percent25": 120,
+        "percent50": 173.63,
+        "percent75": 382.4
+    },
+    {
+        "geo_level": "SC",
+        "id": "IM407",
+        "percent25": 114.4,
+        "percent50": 143.56,
+        "percent75": 315.2
+    },
+    {
+        "geo_level": "SC",
+        "id": "IM601",
+        "percent25": 25.6,
+        "percent50": 41.71,
+        "percent75": 91.2
+    },
+    {
+        "geo_level": "SC",
+        "id": "IM606",
+        "percent25": 31.2,
+        "percent50": 46.56,
+        "percent75": 102.4
+    },
+    {
+        "geo_level": "SC",
+        "id": "IM616",
+        "percent25": 26.4,
+        "percent50": 42.68,
+        "percent75": 70.4
+    },
+    {
+        "geo_level": "SC",
+        "id": "IM627",
+        "percent25": 35.2,
+        "percent50": 54.32,
+        "percent75": 115.2
+    },
+    {
+        "geo_level": "SC",
+        "id": "LT105",
+        "percent25": 9.6,
+        "percent50": 16.49,
+        "percent75": 33.6
+    },
+    {
+        "geo_level": "SC",
+        "id": "LT106",
+        "percent25": 8,
+        "percent50": 13.58,
+        "percent75": 24
+    },
+    {
+        "geo_level": "SC",
+        "id": "LT211",
+        "percent25": 4.8,
+        "percent50": 5.82,
+        "percent75": 11.2
+    },
+    {
+        "geo_level": "SC",
+        "id": "LT213",
+        "percent25": 4.8,
+        "percent50": 7.76,
+        "percent75": 14.4
+    },
+    {
+        "geo_level": "SC",
+        "id": "LT219",
+        "percent25": 9.6,
+        "percent50": 17.46,
+        "percent75": 35.2
+    },
+    {
+        "geo_level": "SC",
+        "id": "LT313",
+        "percent25": 20,
+        "percent50": 32.01,
+        "percent75": 70.4
+    },
+    {
+        "geo_level": "SC",
+        "id": "LT315",
+        "percent25": 19.2,
+        "percent50": 30.07,
+        "percent75": 57.6
+    },
+    {
+        "geo_level": "SC",
+        "id": "LT403",
+        "percent25": 76.8,
+        "percent50": 104.76,
+        "percent75": 192
+    },
+    {
+        "geo_level": "SC",
+        "id": "LT503",
+        "percent25": 30.4,
+        "percent50": 38.8,
+        "percent75": 73.6
+    },
+    {
+        "geo_level": "SC",
+        "id": "OV116",
+        "percent25": 48,
+        "percent50": 69.84,
+        "percent75": 126.4
+    },
+    {
+        "geo_level": "SC",
+        "id": "OV307",
+        "percent25": 29.6,
+        "percent50": 41.71,
+        "percent75": 80
+    },
+    {
+        "geo_level": "SC",
+        "id": "OV411",
+        "percent25": 141.6,
+        "percent50": 198.85,
+        "percent75": 398.4
+    },
+    {
+        "geo_level": "SC",
+        "id": "OV412",
+        "percent25": 141.6,
+        "percent50": 198.85,
+        "percent75": 398.4
+    },
+    {
+        "geo_level": "SC",
+        "id": "OV521",
+        "percent25": 442.4,
+        "percent50": 607.22,
+        "percent75": 1105.6
+    },
+    {
+        "geo_level": "SC",
+        "id": "PX207",
+        "percent25": 7833.6,
+        "percent50": 12093.96,
+        "percent75": 26838.4
+    },
+    {
+        "geo_level": "SD",
+        "id": "IM601",
+        "percent25": 46.4,
+        "percent50": 62.08,
+        "percent75": 104
+    },
+    {
+        "geo_level": "SD",
+        "id": "IM606",
+        "percent25": 60.8,
+        "percent50": 74.69,
+        "percent75": 123.2
+    },
+    {
+        "geo_level": "SD",
+        "id": "IM627",
+        "percent25": 68.8,
+        "percent50": 83.42,
+        "percent75": 137.6
+    },
+    {
+        "geo_level": "SD",
+        "id": "LT105",
+        "percent25": 7.2,
+        "percent50": 8.73,
+        "percent75": 14.4
+    },
+    {
+        "geo_level": "SD",
+        "id": "LT106",
+        "percent25": 8,
+        "percent50": 9.7,
+        "percent75": 16
+    },
+    {
+        "geo_level": "SD",
+        "id": "LT211",
+        "percent25": 2.4,
+        "percent50": 2.91,
+        "percent75": 4.8
+    },
+    {
+        "geo_level": "SD",
+        "id": "LT213",
+        "percent25": 4,
+        "percent50": 4.85,
+        "percent75": 8
+    },
+    {
+        "geo_level": "SD",
+        "id": "LT219",
+        "percent25": 7.2,
+        "percent50": 8.73,
+        "percent75": 16
+    },
+    {
+        "geo_level": "SD",
+        "id": "LT313",
+        "percent25": 20,
+        "percent50": 24.25,
+        "percent75": 40
+    },
+    {
+        "geo_level": "SD",
+        "id": "LT315",
+        "percent25": 12,
+        "percent50": 14.55,
+        "percent75": 24
+    },
+    {
+        "geo_level": "SD",
+        "id": "LT403",
+        "percent25": 121.6,
+        "percent50": 160.05,
+        "percent75": 267.2
+    },
+    {
+        "geo_level": "SD",
+        "id": "OV116",
+        "percent25": 93.6,
+        "percent50": 125.13,
+        "percent75": 209.6
+    },
+    {
+        "geo_level": "SD",
+        "id": "OV307",
+        "percent25": 31.2,
+        "percent50": 74.69,
+        "percent75": 126.4
+    },
+    {
+        "geo_level": "TN",
+        "id": "ES001",
+        "percent25": 596.8,
+        "percent50": 1013.65,
+        "percent75": 2284.8
+    },
+    {
+        "geo_level": "TN",
+        "id": "IM104",
+        "percent25": 168.8,
+        "percent50": 261.9,
+        "percent75": 660.8
+    },
+    {
+        "geo_level": "TN",
+        "id": "IM211",
+        "percent25": 505.6,
+        "percent50": 753.69,
+        "percent75": 1715.2
+    },
+    {
+        "geo_level": "TN",
+        "id": "IM403",
+        "percent25": 117.6,
+        "percent50": 171.69,
+        "percent75": 353.6
+    },
+    {
+        "geo_level": "TN",
+        "id": "IM407",
+        "percent25": 116.8,
+        "percent50": 161.99,
+        "percent75": 344
+    },
+    {
+        "geo_level": "TN",
+        "id": "IM601",
+        "percent25": 23.2,
+        "percent50": 33.95,
+        "percent75": 76.8
+    },
+    {
+        "geo_level": "TN",
+        "id": "IM606",
+        "percent25": 31.2,
+        "percent50": 49.47,
+        "percent75": 102.4
+    },
+    {
+        "geo_level": "TN",
+        "id": "IM616",
+        "percent25": 24,
+        "percent50": 39.77,
+        "percent75": 75.2
+    },
+    {
+        "geo_level": "TN",
+        "id": "IM627",
+        "percent25": 37.6,
+        "percent50": 62.08,
+        "percent75": 120
+    },
+    {
+        "geo_level": "TN",
+        "id": "LT105",
+        "percent25": 4,
+        "percent50": 4.85,
+        "percent75": 12.8
+    },
+    {
+        "geo_level": "TN",
+        "id": "LT106",
+        "percent25": 4.8,
+        "percent50": 6.79,
+        "percent75": 14.4
+    },
+    {
+        "geo_level": "TN",
+        "id": "LT211",
+        "percent25": 1.6,
+        "percent50": 1.94,
+        "percent75": 3.2
+    },
+    {
+        "geo_level": "TN",
+        "id": "LT213",
+        "percent25": 2.4,
+        "percent50": 2.91,
+        "percent75": 6.4
+    },
+    {
+        "geo_level": "TN",
+        "id": "LT219",
+        "percent25": 4,
+        "percent50": 6.79,
+        "percent75": 14.4
+    },
+    {
+        "geo_level": "TN",
+        "id": "LT313",
+        "percent25": 11.2,
+        "percent50": 16.49,
+        "percent75": 38.4
+    },
+    {
+        "geo_level": "TN",
+        "id": "LT315",
+        "percent25": 8,
+        "percent50": 9.7,
+        "percent75": 24
+    },
+    {
+        "geo_level": "TN",
+        "id": "LT403",
+        "percent25": 72.8,
+        "percent50": 102.82,
+        "percent75": 225.6
+    },
+    {
+        "geo_level": "TN",
+        "id": "LT503",
+        "percent25": 8,
+        "percent50": 10.67,
+        "percent75": 24
+    },
+    {
+        "geo_level": "TN",
+        "id": "OV116",
+        "percent25": 56.8,
+        "percent50": 80.51,
+        "percent75": 176
+    },
+    {
+        "geo_level": "TN",
+        "id": "OV307",
+        "percent25": 33.6,
+        "percent50": 46.56,
+        "percent75": 99.2
+    },
+    {
+        "geo_level": "TN",
+        "id": "OV411",
+        "percent25": 171.2,
+        "percent50": 253.17,
+        "percent75": 577.6
+    },
+    {
+        "geo_level": "TN",
+        "id": "OV412",
+        "percent25": 171.2,
+        "percent50": 253.17,
+        "percent75": 577.6
+    },
+    {
+        "geo_level": "TN",
+        "id": "OV521",
+        "percent25": 444.8,
+        "percent50": 588.79,
+        "percent75": 1096
+    },
+    {
+        "geo_level": "TN",
+        "id": "PX207",
+        "percent25": 3790.4,
+        "percent50": 6773.51,
+        "percent75": 14048
+    },
+    {
+        "geo_level": "TX",
+        "id": "ES001",
+        "percent25": 602.4,
+        "percent50": 1059.24,
+        "percent75": 2528
+    },
+    {
+        "geo_level": "TX",
+        "id": "IM104",
+        "percent25": 380.8,
+        "percent50": 709.07,
+        "percent75": 1942.4
+    },
+    {
+        "geo_level": "TX",
+        "id": "IM211",
+        "percent25": 998.4,
+        "percent50": 1738.24,
+        "percent75": 4411.2
+    },
+    {
+        "geo_level": "TX",
+        "id": "IM403",
+        "percent25": 94.4,
+        "percent50": 124.16,
+        "percent75": 294.4
+    },
+    {
+        "geo_level": "TX",
+        "id": "IM407",
+        "percent25": 85.6,
+        "percent50": 131.92,
+        "percent75": 332.8
+    },
+    {
+        "geo_level": "TX",
+        "id": "IM601",
+        "percent25": 21.6,
+        "percent50": 32.01,
+        "percent75": 68.8
+    },
+    {
+        "geo_level": "TX",
+        "id": "IM606",
+        "percent25": 25.6,
+        "percent50": 37.83,
+        "percent75": 83.2
+    },
+    {
+        "geo_level": "TX",
+        "id": "IM616",
+        "percent25": 19.2,
+        "percent50": 25.22,
+        "percent75": 59.2
+    },
+    {
+        "geo_level": "TX",
+        "id": "IM627",
+        "percent25": 29.6,
+        "percent50": 46.56,
+        "percent75": 99.2
+    },
+    {
+        "geo_level": "TX",
+        "id": "LT105",
+        "percent25": 4.8,
+        "percent50": 7.76,
+        "percent75": 17.6
+    },
+    {
+        "geo_level": "TX",
+        "id": "LT106",
+        "percent25": 4.8,
+        "percent50": 7.76,
+        "percent75": 17.6
+    },
+    {
+        "geo_level": "TX",
+        "id": "LT211",
+        "percent25": 1.6,
+        "percent50": 1.94,
+        "percent75": 4.8
+    },
+    {
+        "geo_level": "TX",
+        "id": "LT213",
+        "percent25": 1.6,
+        "percent50": 2.91,
+        "percent75": 6.4
+    },
+    {
+        "geo_level": "TX",
+        "id": "LT219",
+        "percent25": 4.8,
+        "percent50": 7.76,
+        "percent75": 16
+    },
+    {
+        "geo_level": "TX",
+        "id": "LT313",
+        "percent25": 12.8,
+        "percent50": 22.31,
+        "percent75": 49.6
+    },
+    {
+        "geo_level": "TX",
+        "id": "LT315",
+        "percent25": 8,
+        "percent50": 13.58,
+        "percent75": 30.4
+    },
+    {
+        "geo_level": "TX",
+        "id": "LT403",
+        "percent25": 68.8,
+        "percent50": 96.03,
+        "percent75": 195.2
+    },
+    {
+        "geo_level": "TX",
+        "id": "LT503",
+        "percent25": 7.2,
+        "percent50": 8.73,
+        "percent75": 22.4
+    },
+    {
+        "geo_level": "TX",
+        "id": "OV116",
+        "percent25": 55.2,
+        "percent50": 75.66,
+        "percent75": 152
+    },
+    {
+        "geo_level": "TX",
+        "id": "OV307",
+        "percent25": 31.2,
+        "percent50": 44.62,
+        "percent75": 81.6
+    },
+    {
+        "geo_level": "TX",
+        "id": "OV411",
+        "percent25": 133.6,
+        "percent50": 177.51,
+        "percent75": 382.4
+    },
+    {
+        "geo_level": "TX",
+        "id": "OV412",
+        "percent25": 133.6,
+        "percent50": 177.51,
+        "percent75": 382.4
+    },
+    {
+        "geo_level": "TX",
+        "id": "OV521",
+        "percent25": 413.6,
+        "percent50": 563.57,
+        "percent75": 1049.6
+    },
+    {
+        "geo_level": "TX",
+        "id": "PX207",
+        "percent25": 6098.4,
+        "percent50": 10485.7,
+        "percent75": 23179.2
+    },
+    {
+        "geo_level": "UT",
+        "id": "ES001",
+        "percent25": 788.8,
+        "percent50": 1164.97,
+        "percent75": 2492.8
+    },
+    {
+        "geo_level": "UT",
+        "id": "IM104",
+        "percent25": 388.8,
+        "percent50": 1060.21,
+        "percent75": 2027.2
+    },
+    {
+        "geo_level": "UT",
+        "id": "IM211",
+        "percent25": 1325.6,
+        "percent50": 2593.78,
+        "percent75": 5257.6
+    },
+    {
+        "geo_level": "UT",
+        "id": "IM403",
+        "percent25": 171.2,
+        "percent50": 210.49,
+        "percent75": 374.4
+    },
+    {
+        "geo_level": "UT",
+        "id": "IM601",
+        "percent25": 26.4,
+        "percent50": 39.77,
+        "percent75": 76.8
+    },
+    {
+        "geo_level": "UT",
+        "id": "IM606",
+        "percent25": 32.8,
+        "percent50": 54.32,
+        "percent75": 91.2
+    },
+    {
+        "geo_level": "UT",
+        "id": "IM616",
+        "percent25": 28,
+        "percent50": 40.74,
+        "percent75": 70.4
+    },
+    {
+        "geo_level": "UT",
+        "id": "IM627",
+        "percent25": 43.2,
+        "percent50": 61.11,
+        "percent75": 105.6
+    },
+    {
+        "geo_level": "UT",
+        "id": "LT105",
+        "percent25": 6.4,
+        "percent50": 7.76,
+        "percent75": 16
+    },
+    {
+        "geo_level": "UT",
+        "id": "LT106",
+        "percent25": 6.4,
+        "percent50": 8.73,
+        "percent75": 14.4
+    },
+    {
+        "geo_level": "UT",
+        "id": "LT211",
+        "percent25": 1.6,
+        "percent50": 2.91,
+        "percent75": 4.8
+    },
+    {
+        "geo_level": "UT",
+        "id": "LT213",
+        "percent25": 2.4,
+        "percent50": 3.88,
+        "percent75": 6.4
+    },
+    {
+        "geo_level": "UT",
+        "id": "LT219",
+        "percent25": 5.6,
+        "percent50": 7.76,
+        "percent75": 17.6
+    },
+    {
+        "geo_level": "UT",
+        "id": "LT313",
+        "percent25": 14.4,
+        "percent50": 22.31,
+        "percent75": 36.8
+    },
+    {
+        "geo_level": "UT",
+        "id": "LT315",
+        "percent25": 10.4,
+        "percent50": 14.55,
+        "percent75": 30.4
+    },
+    {
+        "geo_level": "UT",
+        "id": "LT403",
+        "percent25": 80.8,
+        "percent50": 120.28,
+        "percent75": 211.2
+    },
+    {
+        "geo_level": "UT",
+        "id": "OV116",
+        "percent25": 62.4,
+        "percent50": 89.24,
+        "percent75": 158.4
+    },
+    {
+        "geo_level": "UT",
+        "id": "OV307",
+        "percent25": 36.8,
+        "percent50": 53.35,
+        "percent75": 91.2
+    },
+    {
+        "geo_level": "UT",
+        "id": "OV411",
+        "percent25": 181.6,
+        "percent50": 275.48,
+        "percent75": 556.8
+    },
+    {
+        "geo_level": "UT",
+        "id": "OV412",
+        "percent25": 181.6,
+        "percent50": 275.48,
+        "percent75": 556.8
+    },
+    {
+        "geo_level": "UT",
+        "id": "OV521",
+        "percent25": 469.6,
+        "percent50": 621.77,
+        "percent75": 1172.8
+    },
+    {
+        "geo_level": "UT",
+        "id": "PX207",
+        "percent25": 5716,
+        "percent50": 10167.54,
+        "percent75": 21726.4
+    },
+    {
+        "geo_level": "VA",
+        "id": "ES001",
+        "percent25": 843.2,
+        "percent50": 1259.06,
+        "percent75": 2908.8
+    },
+    {
+        "geo_level": "VA",
+        "id": "IM104",
+        "percent25": 572.8,
+        "percent50": 1111.62,
+        "percent75": 2755.2
+    },
+    {
+        "geo_level": "VA",
+        "id": "IM211",
+        "percent25": 1540,
+        "percent50": 2504.54,
+        "percent75": 5353.6
+    },
+    {
+        "geo_level": "VA",
+        "id": "IM403",
+        "percent25": 117.6,
+        "percent50": 175.57,
+        "percent75": 371.2
+    },
+    {
+        "geo_level": "VA",
+        "id": "IM407",
+        "percent25": 111.2,
+        "percent50": 161.02,
+        "percent75": 308.8
+    },
+    {
+        "geo_level": "VA",
+        "id": "IM601",
+        "percent25": 26.4,
+        "percent50": 34.92,
+        "percent75": 76.8
+    },
+    {
+        "geo_level": "VA",
+        "id": "IM606",
+        "percent25": 32.8,
+        "percent50": 42.68,
+        "percent75": 83.2
+    },
+    {
+        "geo_level": "VA",
+        "id": "IM616",
+        "percent25": 24.8,
+        "percent50": 37.83,
+        "percent75": 81.6
+    },
+    {
+        "geo_level": "VA",
+        "id": "IM627",
+        "percent25": 36.8,
+        "percent50": 50.44,
+        "percent75": 102.4
+    },
+    {
+        "geo_level": "VA",
+        "id": "LT105",
+        "percent25": 5.6,
+        "percent50": 8.73,
+        "percent75": 17.6
+    },
+    {
+        "geo_level": "VA",
+        "id": "LT106",
+        "percent25": 6.4,
+        "percent50": 9.7,
+        "percent75": 22.4
+    },
+    {
+        "geo_level": "VA",
+        "id": "LT211",
+        "percent25": 1.6,
+        "percent50": 1.94,
+        "percent75": 4.8
+    },
+    {
+        "geo_level": "VA",
+        "id": "LT213",
+        "percent25": 2.4,
+        "percent50": 3.88,
+        "percent75": 9.6
+    },
+    {
+        "geo_level": "VA",
+        "id": "LT219",
+        "percent25": 6.4,
+        "percent50": 9.7,
+        "percent75": 16
+    },
+    {
+        "geo_level": "VA",
+        "id": "LT313",
+        "percent25": 17.6,
+        "percent50": 26.19,
+        "percent75": 49.6
+    },
+    {
+        "geo_level": "VA",
+        "id": "LT315",
+        "percent25": 11.2,
+        "percent50": 15.52,
+        "percent75": 25.6
+    },
+    {
+        "geo_level": "VA",
+        "id": "LT403",
+        "percent25": 73.6,
+        "percent50": 97.97,
+        "percent75": 169.6
+    },
+    {
+        "geo_level": "VA",
+        "id": "OV116",
+        "percent25": 58.4,
+        "percent50": 78.57,
+        "percent75": 132.8
+    },
+    {
+        "geo_level": "VA",
+        "id": "OV307",
+        "percent25": 35.2,
+        "percent50": 45.59,
+        "percent75": 80
+    },
+    {
+        "geo_level": "VA",
+        "id": "OV411",
+        "percent25": 132,
+        "percent50": 171.69,
+        "percent75": 372.8
+    },
+    {
+        "geo_level": "VA",
+        "id": "OV412",
+        "percent25": 132,
+        "percent50": 171.69,
+        "percent75": 372.8
+    },
+    {
+        "geo_level": "VA",
+        "id": "OV521",
+        "percent25": 401.6,
+        "percent50": 532.53,
+        "percent75": 1012.8
+    },
+    {
+        "geo_level": "VA",
+        "id": "PX207",
+        "percent25": 5867.2,
+        "percent50": 10257.75,
+        "percent75": 23273.6
+    },
+    {
+        "geo_level": "VT",
+        "id": "IM403",
+        "percent25": 143.2,
+        "percent50": 178.48,
+        "percent75": 299.2
+    },
+    {
+        "geo_level": "VT",
+        "id": "LT105",
+        "percent25": 8,
+        "percent50": 9.7,
+        "percent75": 16
+    },
+    {
+        "geo_level": "VT",
+        "id": "LT211",
+        "percent25": 4,
+        "percent50": 4.85,
+        "percent75": 8
+    },
+    {
+        "geo_level": "VT",
+        "id": "LT403",
+        "percent25": 85.6,
+        "percent50": 113.49,
+        "percent75": 203.2
+    },
+    {
+        "geo_level": "VT",
+        "id": "OV116",
+        "percent25": 64.8,
+        "percent50": 87.3,
+        "percent75": 144
+    },
+    {
+        "geo_level": "VT",
+        "id": "OV307",
+        "percent25": 44,
+        "percent50": 53.35,
+        "percent75": 92.8
+    },
+    {
+        "geo_level": "VT",
+        "id": "OV411",
+        "percent25": 200.8,
+        "percent50": 244.44,
+        "percent75": 403.2
+    },
+    {
+        "geo_level": "VT",
+        "id": "OV412",
+        "percent25": 200.8,
+        "percent50": 244.44,
+        "percent75": 403.2
+    },
+    {
+        "geo_level": "WA",
+        "id": "ES001",
+        "percent25": 724,
+        "percent50": 1085.43,
+        "percent75": 2444.8
+    },
+    {
+        "geo_level": "WA",
+        "id": "IM104",
+        "percent25": 306.4,
+        "percent50": 524.77,
+        "percent75": 1657.6
+    },
+    {
+        "geo_level": "WA",
+        "id": "IM211",
+        "percent25": 968.8,
+        "percent50": 1392.92,
+        "percent75": 3692.8
+    },
+    {
+        "geo_level": "WA",
+        "id": "IM403",
+        "percent25": 153.6,
+        "percent50": 217.28,
+        "percent75": 526.4
+    },
+    {
+        "geo_level": "WA",
+        "id": "IM407",
+        "percent25": 140,
+        "percent50": 220.19,
+        "percent75": 473.6
+    },
+    {
+        "geo_level": "WA",
+        "id": "IM601",
+        "percent25": 37.6,
+        "percent50": 56.26,
+        "percent75": 113.6
+    },
+    {
+        "geo_level": "WA",
+        "id": "IM606",
+        "percent25": 43.2,
+        "percent50": 65.96,
+        "percent75": 129.6
+    },
+    {
+        "geo_level": "WA",
+        "id": "IM616",
+        "percent25": 28.8,
+        "percent50": 45.59,
+        "percent75": 96
+    },
+    {
+        "geo_level": "WA",
+        "id": "IM627",
+        "percent25": 48.8,
+        "percent50": 75.66,
+        "percent75": 145.6
+    },
+    {
+        "geo_level": "WA",
+        "id": "LT105",
+        "percent25": 7.2,
+        "percent50": 9.7,
+        "percent75": 19.2
+    },
+    {
+        "geo_level": "WA",
+        "id": "LT106",
+        "percent25": 9.6,
+        "percent50": 11.64,
+        "percent75": 24
+    },
+    {
+        "geo_level": "WA",
+        "id": "LT211",
+        "percent25": 2.4,
+        "percent50": 2.91,
+        "percent75": 4.8
+    },
+    {
+        "geo_level": "WA",
+        "id": "LT213",
+        "percent25": 4,
+        "percent50": 5.82,
+        "percent75": 11.2
+    },
+    {
+        "geo_level": "WA",
+        "id": "LT219",
+        "percent25": 7.2,
+        "percent50": 11.64,
+        "percent75": 22.4
+    },
+    {
+        "geo_level": "WA",
+        "id": "LT313",
+        "percent25": 27.2,
+        "percent50": 35.89,
+        "percent75": 62.4
+    },
+    {
+        "geo_level": "WA",
+        "id": "LT315",
+        "percent25": 16,
+        "percent50": 19.4,
+        "percent75": 36.8
+    },
+    {
+        "geo_level": "WA",
+        "id": "LT403",
+        "percent25": 96.8,
+        "percent50": 127.07,
+        "percent75": 283.2
+    },
+    {
+        "geo_level": "WA",
+        "id": "LT503",
+        "percent25": 16,
+        "percent50": 19.4,
+        "percent75": 43.2
+    },
+    {
+        "geo_level": "WA",
+        "id": "OV116",
+        "percent25": 78.4,
+        "percent50": 99.91,
+        "percent75": 227.2
+    },
+    {
+        "geo_level": "WA",
+        "id": "OV307",
+        "percent25": 44,
+        "percent50": 59.17,
+        "percent75": 124.8
+    },
+    {
+        "geo_level": "WA",
+        "id": "OV411",
+        "percent25": 188,
+        "percent50": 297.79,
+        "percent75": 569.6
+    },
+    {
+        "geo_level": "WA",
+        "id": "OV412",
+        "percent25": 188,
+        "percent50": 297.79,
+        "percent75": 569.6
+    },
+    {
+        "geo_level": "WA",
+        "id": "OV521",
+        "percent25": 553.6,
+        "percent50": 776.97,
+        "percent75": 1430.4
+    },
+    {
+        "geo_level": "WA",
+        "id": "PX207",
+        "percent25": 8897.6,
+        "percent50": 13414.13,
+        "percent75": 29132.8
+    },
+    {
+        "geo_level": "WI",
+        "id": "ES001",
+        "percent25": 671.2,
+        "percent50": 1126.17,
+        "percent75": 2536
+    },
+    {
+        "geo_level": "WI",
+        "id": "IM104",
+        "percent25": 841.6,
+        "percent50": 1367.7,
+        "percent75": 3240
+    },
+    {
+        "geo_level": "WI",
+        "id": "IM211",
+        "percent25": 1910.4,
+        "percent50": 4226.29,
+        "percent75": 8286.4
+    },
+    {
+        "geo_level": "WI",
+        "id": "IM403",
+        "percent25": 174.4,
+        "percent50": 335.62,
+        "percent75": 683.2
+    },
+    {
+        "geo_level": "WI",
+        "id": "IM407",
+        "percent25": 236.8,
+        "percent50": 328.83,
+        "percent75": 726.4
+    },
+    {
+        "geo_level": "WI",
+        "id": "IM601",
+        "percent25": 33.6,
+        "percent50": 56.26,
+        "percent75": 142.4
+    },
+    {
+        "geo_level": "WI",
+        "id": "IM606",
+        "percent25": 44,
+        "percent50": 81.48,
+        "percent75": 190.4
+    },
+    {
+        "geo_level": "WI",
+        "id": "IM627",
+        "percent25": 52.8,
+        "percent50": 98.94,
+        "percent75": 252.8
+    },
+    {
+        "geo_level": "WI",
+        "id": "LT105",
+        "percent25": 8,
+        "percent50": 14.55,
+        "percent75": 46.4
+    },
+    {
+        "geo_level": "WI",
+        "id": "LT106",
+        "percent25": 6.4,
+        "percent50": 10.67,
+        "percent75": 32
+    },
+    {
+        "geo_level": "WI",
+        "id": "LT211",
+        "percent25": 2.4,
+        "percent50": 2.91,
+        "percent75": 11.2
+    },
+    {
+        "geo_level": "WI",
+        "id": "LT213",
+        "percent25": 3.2,
+        "percent50": 4.85,
+        "percent75": 17.6
+    },
+    {
+        "geo_level": "WI",
+        "id": "LT219",
+        "percent25": 8,
+        "percent50": 17.46,
+        "percent75": 49.6
+    },
+    {
+        "geo_level": "WI",
+        "id": "LT313",
+        "percent25": 14.4,
+        "percent50": 25.22,
+        "percent75": 91.2
+    },
+    {
+        "geo_level": "WI",
+        "id": "LT315",
+        "percent25": 12.8,
+        "percent50": 19.4,
+        "percent75": 64
+    },
+    {
+        "geo_level": "WI",
+        "id": "LT403",
+        "percent25": 76.8,
+        "percent50": 116.4,
+        "percent75": 291.2
+    },
+    {
+        "geo_level": "WI",
+        "id": "LT503",
+        "percent25": 6.4,
+        "percent50": 23.28,
+        "percent75": 56
+    },
+    {
+        "geo_level": "WI",
+        "id": "OV116",
+        "percent25": 58.4,
+        "percent50": 86.33,
+        "percent75": 217.6
+    },
+    {
+        "geo_level": "WI",
+        "id": "OV307",
+        "percent25": 35.2,
+        "percent50": 47.53,
+        "percent75": 123.2
+    },
+    {
+        "geo_level": "WI",
+        "id": "OV411",
+        "percent25": 220.8,
+        "percent50": 388,
+        "percent75": 771.2
+    },
+    {
+        "geo_level": "WI",
+        "id": "OV412",
+        "percent25": 220.8,
+        "percent50": 388,
+        "percent75": 771.2
+    },
+    {
+        "geo_level": "WI",
+        "id": "OV521",
+        "percent25": 504.8,
+        "percent50": 718.77,
+        "percent75": 1604.8
+    },
+    {
+        "geo_level": "WI",
+        "id": "PX207",
+        "percent25": 11582.4,
+        "percent50": 19202.12,
+        "percent75": 39907.2
+    },
+    {
+        "geo_level": "WV",
+        "id": "ES001",
+        "percent25": 578.4,
+        "percent50": 862.33,
+        "percent75": 1673.6
+    },
+    {
+        "geo_level": "WV",
+        "id": "IM104",
+        "percent25": 465.6,
+        "percent50": 740.11,
+        "percent75": 1569.6
+    },
+    {
+        "geo_level": "WV",
+        "id": "IM403",
+        "percent25": 216,
+        "percent50": 262.87,
+        "percent75": 449.6
+    },
+    {
+        "geo_level": "WV",
+        "id": "IM601",
+        "percent25": 33.6,
+        "percent50": 53.35,
+        "percent75": 89.6
+    },
+    {
+        "geo_level": "WV",
+        "id": "IM606",
+        "percent25": 51.2,
+        "percent50": 62.08,
+        "percent75": 116.8
+    },
+    {
+        "geo_level": "WV",
+        "id": "IM627",
+        "percent25": 54.4,
+        "percent50": 72.75,
+        "percent75": 131.2
+    },
+    {
+        "geo_level": "WV",
+        "id": "LT105",
+        "percent25": 8,
+        "percent50": 13.58,
+        "percent75": 24
+    },
+    {
+        "geo_level": "WV",
+        "id": "LT106",
+        "percent25": 10.4,
+        "percent50": 14.55,
+        "percent75": 24
+    },
+    {
+        "geo_level": "WV",
+        "id": "LT211",
+        "percent25": 3.2,
+        "percent50": 3.88,
+        "percent75": 6.4
+    },
+    {
+        "geo_level": "WV",
+        "id": "LT213",
+        "percent25": 4.8,
+        "percent50": 5.82,
+        "percent75": 9.6
+    },
+    {
+        "geo_level": "WV",
+        "id": "LT219",
+        "percent25": 8,
+        "percent50": 14.55,
+        "percent75": 24
+    },
+    {
+        "geo_level": "WV",
+        "id": "LT313",
+        "percent25": 16.8,
+        "percent50": 29.1,
+        "percent75": 67.2
+    },
+    {
+        "geo_level": "WV",
+        "id": "LT315",
+        "percent25": 12,
+        "percent50": 21.34,
+        "percent75": 36.8
+    },
+    {
+        "geo_level": "WV",
+        "id": "LT403",
+        "percent25": 87.2,
+        "percent50": 106.7,
+        "percent75": 179.2
+    },
+    {
+        "geo_level": "WV",
+        "id": "LT503",
+        "percent25": 20,
+        "percent50": 24.25,
+        "percent75": 40
+    },
+    {
+        "geo_level": "WV",
+        "id": "OV116",
+        "percent25": 68,
+        "percent50": 83.42,
+        "percent75": 139.2
+    },
+    {
+        "geo_level": "WV",
+        "id": "OV307",
+        "percent25": 40.8,
+        "percent50": 49.47,
+        "percent75": 84.8
+    },
+    {
+        "geo_level": "WV",
+        "id": "OV411",
+        "percent25": 209.6,
+        "percent50": 254.14,
+        "percent75": 419.2
+    },
+    {
+        "geo_level": "WV",
+        "id": "OV412",
+        "percent25": 209.6,
+        "percent50": 254.14,
+        "percent75": 419.2
+    },
+    {
+        "geo_level": "WV",
+        "id": "OV521",
+        "percent25": 466.4,
+        "percent50": 644.08,
+        "percent75": 1124.8
+    },
+    {
+        "geo_level": "WY",
+        "id": "IM601",
+        "percent25": 67.2,
+        "percent50": 104.76,
+        "percent75": 176
+    },
+    {
+        "geo_level": "WY",
+        "id": "IM606",
+        "percent25": 67.2,
+        "percent50": 95.06,
+        "percent75": 158.4
+    },
+    {
+        "geo_level": "WY",
+        "id": "IM627",
+        "percent25": 85.6,
+        "percent50": 105.73,
+        "percent75": 174.4
+    },
+    {
+        "geo_level": "WY",
+        "id": "LT105",
+        "percent25": 21.6,
+        "percent50": 30.07,
+        "percent75": 51.2
+    },
+    {
+        "geo_level": "WY",
+        "id": "LT106",
+        "percent25": 15.2,
+        "percent50": 25.22,
+        "percent75": 41.6
+    },
+    {
+        "geo_level": "WY",
+        "id": "LT403",
+        "percent25": 104.8,
+        "percent50": 155.2,
+        "percent75": 289.6
+    },
+    {
+        "geo_level": "WY",
+        "id": "OV116",
+        "percent25": 85.6,
+        "percent50": 122.22,
+        "percent75": 211.2
+    },
+    {
+        "geo_level": "WY",
+        "id": "OV307",
+        "percent25": 52.8,
+        "percent50": 74.69,
+        "percent75": 136
+    }
+]
