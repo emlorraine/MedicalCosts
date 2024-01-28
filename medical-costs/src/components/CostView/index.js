@@ -7,6 +7,7 @@ import './cost_view.css';
 
 export default function CostView(props) {
     const costData = getCostData(props.stateCode, props.procedureId)
+    const roundedAvg = Math.round(costData.percent50)
     return (
         //https://getbootstrap.com/docs/4.0/layout/grid/
         <div className="container-fluid">
@@ -22,7 +23,7 @@ export default function CostView(props) {
                             <p style={{ fontSize: "25px" }}>Average Price <HelpIcon /></p>
                         </div>
                         <div className="col-12" style={{ fontSize: "96px" }}>
-                            ${costData.percent50}
+                            ${roundedAvg}
                         </div>
                         <div className="col-12">
                             {/* //https://getbootstrap.com/docs/4.0/utilities/flex/ */}
