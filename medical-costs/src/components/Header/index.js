@@ -3,9 +3,7 @@ import getProcedureInfo from "../../utils/getLabelData.js";
 import './header.css';
 
 export default function Header(props) {
-    console.log(props)
     const procedureInfo = getProcedureInfo(props.procedureId)
-    console.log(procedureInfo)
     return (
         <>
             <div className="header">

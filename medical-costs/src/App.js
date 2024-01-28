@@ -1,11 +1,14 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
 import Header
   from "./components/Header";
+import CostView
+  from "./components/CostView";
 function App() {
   return (
-    <div className="App">
+    <>
       <Header procedureId="LT403" />
-
-    </div>
+      <CostView state="California" stateCode="CA" procedureId="LT403" />
+    </>
   );
 }
 

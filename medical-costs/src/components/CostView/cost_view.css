@@ -1,0 +1,15 @@
+.box-style {
+    margin-top: 20px;
+    padding: 20px;
+    padding: 20px;
+    margin-right: 10px;
+    margin-left: 20px;
+}
+
+.box-style:not(:first-child) {
+    border: 3px solid #EFF8FF;
+}
+
+.cost-view .col {
+    margin-bottom: 50px;
+}
